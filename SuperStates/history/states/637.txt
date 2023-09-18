@@ -1,0 +1,39 @@
+
+state={
+	id=637
+	name="STATE_637"
+	resources={
+		aluminium=7.000
+	}
+
+	history={
+		owner = W26
+		victory_points = {
+			9752 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 7
+			arms_factory = 1
+			dockyard = 1
+			6973 = {
+				naval_base = 10
+			}
+			air_base = 10
+
+		}
+		add_core_of = W26
+		add_core_of = X63
+		add_core_of = X71
+		add_core_of = X86
+	}
+
+	provinces={
+		3773 3976 6790 6946 6973 9752 
+	}
+	manpower=3997288
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

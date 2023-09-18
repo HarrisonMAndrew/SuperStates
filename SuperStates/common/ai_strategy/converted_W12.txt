@@ -1,0 +1,133 @@
+﻿converted_war_strategies_W12 = {
+	enable = {
+		tag = W12
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "CAL"
+		value = 272
+	}
+	ai_strategy = {
+		type = conquer
+		id = "MEX"
+		value = 131
+	}
+	ai_strategy = {
+		type = conquer
+		id = "USA"
+		value = 56
+	}
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 45
+	}
+}
+
+converted_diplo_strategies_W12 = {
+	enable = {
+		tag = W12
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "BAN"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "W25"
+		value = 305
+	}
+	ai_strategy = {
+		type = contain
+		id = "W26"
+		value = 278
+	}
+	ai_strategy = {
+		type = contain
+		id = "CAL"
+		value = 10
+	}
+	ai_strategy = {
+		type = contain
+		id = "USA"
+		value = 9
+	}
+	ai_strategy = {
+		type = contain
+		id = "MEX"
+		value = 8
+	}
+	ai_strategy = {
+		type = contain
+		id = "FRA"
+		value = 3
+	}
+	ai_strategy = {
+		type = contain
+		id = "W32"
+		value = 1
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAL"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEX"
+		value = 138
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 71
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 61
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "PRU"
+		value = 54
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BLZ"
+		value = 34
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X28"
+		value = 8
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CAL"
+		value = 90
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SIA"
+		value = 76
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "DEN"
+		value = 27
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W29"
+		value = 17
+	}
+}

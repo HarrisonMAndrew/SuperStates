@@ -1,0 +1,38 @@
+
+state={
+	id=408
+	name="STATE_408"
+	resources={
+		oil=11.000
+		rubber=169.000
+		steel=2.000
+	}
+
+	history={
+		owner = X68
+		victory_points = {
+			4608 20 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			1398 = {
+				naval_base = 10
+			}
+			air_base = 9
+
+		}
+		add_core_of = X68
+	}
+
+	provinces={
+		1209 1386 1398 1413 1425 4306 4390 4406 4434 4608 4621 7223 7381 7421 7642 7654 10135 10279 10307 10479 10491 12249 12277 12293 12472 
+	}
+	manpower=7391044
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=416
+	name="STATE_416"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = X70
+		victory_points = {
+			1607 4 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 2
+			air_base = 2
+
+		}
+		add_core_of = X70
+	}
+
+	provinces={
+		1170 1566 1607 2061 4175 4210 4654 7400 7562 7603 7647 7909 7974 12317 12363 
+	}
+	manpower=2683524
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

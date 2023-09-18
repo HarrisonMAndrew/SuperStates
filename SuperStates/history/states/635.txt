@@ -1,0 +1,32 @@
+
+state={
+	id=635
+	name="STATE_635"
+	resources={
+		aluminium=9.000
+	}
+
+	history={
+		owner = W26
+		victory_points = {
+			6631 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = W26
+	}
+
+	provinces={
+		6631 9598 11598 
+	}
+	manpower=882124
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

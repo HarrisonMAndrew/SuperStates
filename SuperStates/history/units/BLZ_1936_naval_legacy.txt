@@ -1,0 +1,61 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 13087
+		task_force = {
+			name = "2nd Fleet"
+			location = 13087
+			ship = { name = "Hercules" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "St Vincent" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Collingwood" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Shannon" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Galatea" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Blake" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+		}
+	}
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 10886
+		task_force = {
+			name = "1st Fleet"
+			location = 10886
+			ship = { name = "Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Bellerophon" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Superb" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Temeraire" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "2nd Balboa Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "2nd Guatemala Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "1st Balboa Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "1st Guatemala Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Australia" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Undaunted" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Narcissus" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Immortalite" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Blenheim" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Nelson" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Warspite" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+			ship = { name = "Orlando" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = BLZ } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "BLZ"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "BLZ"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

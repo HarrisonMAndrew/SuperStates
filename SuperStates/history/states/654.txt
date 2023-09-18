@@ -1,0 +1,37 @@
+
+state={
+	id=654
+	name="STATE_654"
+	resources={
+		aluminium=3.000
+		chromium=3.000
+	}
+
+	history={
+		owner = W26
+		victory_points = {
+			914 4 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 2
+			11767 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = W26
+	}
+
+	provinces={
+		914 3448 3884 3896 6900 9780 9875 9914 11762 11767 13234 13235 13255 
+	}
+	manpower=3925216
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

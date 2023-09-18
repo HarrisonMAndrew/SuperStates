@@ -1,0 +1,41 @@
+
+state={
+	id=152
+	name="STATE_152"
+	resources={
+		aluminium=1.000
+		chromium=40.000
+		rubber=2.000
+		steel=13.000
+		tungsten=23.000
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			10419 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 6
+			arms_factory = 2
+			dockyard = 1
+			10946 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = BRA
+		add_claim_by = W31
+	}
+
+	provinces={
+		4617 5174 5194 5218 8129 8177 8184 8197 8242 10392 10419 10926 10946 11002 12422 
+	}
+	manpower=4721604
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

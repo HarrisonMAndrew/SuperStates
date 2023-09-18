@@ -1,0 +1,32 @@
+
+state={
+	id=89
+	name="STATE_89"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			9152 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BAN
+	}
+
+	provinces={
+		1883 1993 2081 3181 7919 9152 13211 
+	}
+	manpower=3445580
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

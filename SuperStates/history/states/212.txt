@@ -1,0 +1,36 @@
+
+state={
+	id=212
+	name="STATE_212"
+	resources={
+		oil=43.000
+	}
+
+	history={
+		owner = COL
+		victory_points = {
+			8113 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			8113 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = COL
+	}
+
+	provinces={
+		4892 4942 5000 5056 7968 8024 8080 8113 
+	}
+	manpower=1931424
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

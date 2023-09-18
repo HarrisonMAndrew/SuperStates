@@ -1,0 +1,16 @@
+characters={
+	X51_balingiin_genden={
+		name=X51_balingiin_genden
+		portraits={
+			civilian={
+				large="gfx/leaders/XSM/portrait_xsm_ma_bufang.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

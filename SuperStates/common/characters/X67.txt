@@ -1,0 +1,36 @@
+characters={
+	X67_sawai_shekha={
+		name=X67_sawai_shekha
+		portraits={
+			army={
+				large="GFX_India_Generic_land_new_5"
+			}
+			army={
+				small="GFX_India_Generic_land_new_5"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=1
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X67_bhai_tiwana={
+		name=X67_bhai_tiwana
+		portraits={
+			civilian={
+				large="GFX_BHC_Mohandas_Karamchand_Gandhi"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

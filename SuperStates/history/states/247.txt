@@ -1,0 +1,33 @@
+
+state={
+	id=247
+	name="STATE_247"
+	resources={
+		aluminium=3.000
+		steel=17.000
+	}
+
+	history={
+		owner = X30
+		victory_points = {
+			11865 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = X30
+	}
+
+	provinces={
+		1367 1893 2030 2091 4041 4141 4167 4295 4431 5048 6999 7240 7256 7418 7948 8026 10144 10304 11865 12274 12767 
+	}
+	manpower=1082672
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

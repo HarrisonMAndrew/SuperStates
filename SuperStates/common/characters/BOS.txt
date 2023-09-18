@@ -1,0 +1,36 @@
+characters={
+	BOS_zuko_ljubicic={
+		name=BOS_zuko_ljubicic
+		portraits={
+			army={
+				large="GFX_portrait_MEX_Luis_Maria_Martinez"
+			}
+			army={
+				small="GFX_portrait_MEX_Luis_Maria_Martinez"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	BOS_meho_silajdzic={
+		name=BOS_meho_silajdzic
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

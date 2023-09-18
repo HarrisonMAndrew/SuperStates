@@ -1,0 +1,34 @@
+
+state={
+	id=575
+	name="STATE_575"
+
+	history={
+		owner = W25
+		victory_points = {
+			7878 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			7878 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = W25
+		add_core_of = X54
+	}
+
+	provinces={
+		1823 1839 1863 4728 4744 7878 10540 12207 12522 
+	}
+	manpower=1782446
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

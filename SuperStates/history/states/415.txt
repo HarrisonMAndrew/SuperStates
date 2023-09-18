@@ -1,0 +1,32 @@
+
+state={
+	id=415
+	name="STATE_415"
+
+	history={
+		owner = X68
+		victory_points = {
+			13005 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			13005 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = X68
+	}
+
+	provinces={
+		13005 
+	}
+	manpower=259244
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

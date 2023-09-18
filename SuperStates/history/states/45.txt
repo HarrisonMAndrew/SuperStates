@@ -1,0 +1,35 @@
+
+state={
+	id=45
+	name="STATE_45"
+	resources={
+		aluminium=3.000
+		chromium=9.000
+		steel=11.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			4883 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BAN
+		add_core_of = X41
+	}
+
+	provinces={
+		1622 4557 4883 7428 7465 7619 10171 10469 12490 
+	}
+	manpower=677224
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

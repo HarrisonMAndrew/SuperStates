@@ -1,0 +1,30 @@
+
+state={
+	id=756
+	name="STATE_756"
+
+	history={
+		owner = W32
+		victory_points = {
+			1527 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 1
+			air_base = 7
+
+		}
+		add_core_of = W32
+		add_core_of = X16
+	}
+
+	provinces={
+		1527 4590 6737 7626 9450 10339 10393 10457 11589 12305 12312 12365 12368 12497 12697 
+	}
+	manpower=2745396
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

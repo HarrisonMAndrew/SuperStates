@@ -1,0 +1,16 @@
+characters={
+	X76_curiatao_canchari={
+		name=X76_curiatao_canchari
+		portraits={
+			civilian={
+				large="gfx/leaders/south_american_native/portrait_nat_south_neutral.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

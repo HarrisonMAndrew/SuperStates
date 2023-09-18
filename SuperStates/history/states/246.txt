@@ -1,0 +1,34 @@
+
+state={
+	id=246
+	name="STATE_246"
+	resources={
+		aluminium=7.000
+		steel=3.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = X30
+		victory_points = {
+			5092 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = X30
+	}
+
+	provinces={
+		1976 2006 4256 5007 5092 7208 7301 7406 8049 10257 10733 12156 12408 12713 
+	}
+	manpower=1155004
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

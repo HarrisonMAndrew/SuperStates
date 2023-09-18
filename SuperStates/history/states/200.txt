@@ -1,0 +1,36 @@
+
+state={
+	id=200
+	name="STATE_200"
+	resources={
+		aluminium=300.000
+	}
+
+	history={
+		owner = COL
+		victory_points = {
+			8107 4 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 1
+			12885 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = COL
+	}
+
+	provinces={
+		1928 4934 4982 8107 10906 12716 12828 12885 
+	}
+	manpower=3071396
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

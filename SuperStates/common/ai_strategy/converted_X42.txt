@@ -1,0 +1,153 @@
+﻿converted_war_strategies_X42 = {
+	enable = {
+		tag = X42
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "X95"
+		value = 1464
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W24"
+		value = 516
+	}
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 251
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W26"
+		value = 81
+	}
+}
+
+converted_diplo_strategies_X42 = {
+	enable = {
+		tag = X42
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "BAN"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "W25"
+		value = 324
+	}
+	ai_strategy = {
+		type = contain
+		id = "W26"
+		value = 309
+	}
+	ai_strategy = {
+		type = contain
+		id = "X95"
+		value = 10
+	}
+	ai_strategy = {
+		type = contain
+		id = "W24"
+		value = 9
+	}
+	ai_strategy = {
+		type = contain
+		id = "FRA"
+		value = 4
+	}
+	ai_strategy = {
+		type = contain
+		id = "W01"
+		value = 2
+	}
+	ai_strategy = {
+		type = contain
+		id = "W27"
+		value = 1
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X95"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W24"
+		value = 290
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W26"
+		value = 158
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 58
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAT"
+		value = 48
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W25"
+		value = 78
+	}
+	ai_strategy = {
+		type = alliance
+		id = "GER"
+		value = 58
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X74"
+		value = 36
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W01"
+		value = 11
+	}
+	ai_strategy = {
+		type = protect
+		id = "W24"
+		value = 240
+	}
+	ai_strategy = {
+		type = protect
+		id = "CAT"
+		value = 20
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X95"
+		value = 145
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X90"
+		value = 87
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W12"
+		value = 54
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W27"
+		value = 36
+	}
+}

@@ -1,0 +1,85 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 321
+		task_force = {
+			name = "1st Fleet"
+			location = 321
+			ship = { name = "2nd Schwerin Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "5th Schwerin Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Jan Brozek" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Jan Sniadecki" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Jan Sniadecki 2" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Jan Mikolaj Smogulecki" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Mikolaj Kopernik" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Mikolaj Kopernik 2" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Jan Heweliusz" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "6th Fleet"
+		naval_base = 321
+		task_force = {
+			name = "6th Fleet"
+			location = 2775
+			ship = { name = "Jan Mikolaj Smogulecki 2" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Albert Brudzewski" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Stanislaw Lubieniecki" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Schwerin Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Kiel Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Hamburg Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Schwerin Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Kiel Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Hamburg Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Schwerin Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Kiel Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Hamburg Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "8th Fleet"
+		naval_base = 321
+		task_force = {
+			name = "8th Fleet"
+			location = 2775
+			ship = { name = "8th Hamburg Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "7th Kiel Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "9th Hamburg Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "8th Kiel Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "10th Fleet"
+		naval_base = 321
+		task_force = {
+			name = "10th Fleet"
+			location = 2382
+			ship = { name = "1st Kiel Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Kiel Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "4th Hamburg Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "11th Fleet"
+		naval_base = 321
+		task_force = {
+			name = "11th Fleet"
+			location = 321
+			ship = { name = "6th Kiel Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "4th Schwerin Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = W01 version_name = "Early Heavy Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "W01"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

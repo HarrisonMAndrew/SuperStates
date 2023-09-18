@@ -1,0 +1,153 @@
+﻿converted_war_strategies_MAC = {
+	enable = {
+		tag = MAC
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "YUG"
+		value = 916
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W26"
+		value = 602
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X74"
+		value = 73
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X89"
+		value = 70
+	}
+}
+
+converted_diplo_strategies_MAC = {
+	enable = {
+		tag = MAC
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "BAN"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "W25"
+		value = 327
+	}
+	ai_strategy = {
+		type = contain
+		id = "W26"
+		value = 313
+	}
+	ai_strategy = {
+		type = contain
+		id = "YUG"
+		value = 8
+	}
+	ai_strategy = {
+		type = contain
+		id = "X89"
+		value = 6
+	}
+	ai_strategy = {
+		type = contain
+		id = "X90"
+		value = 3
+	}
+	ai_strategy = {
+		type = contain
+		id = "UKR"
+		value = 3
+	}
+	ai_strategy = {
+		type = contain
+		id = "W01"
+		value = 3
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "YUG"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W26"
+		value = 267
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X89"
+		value = 121
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X80"
+		value = 16
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X74"
+		value = 10
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 3
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 2
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X74"
+		value = 93
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W25"
+		value = 80
+	}
+	ai_strategy = {
+		type = alliance
+		id = "GER"
+		value = 59
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X90"
+		value = 23
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "DEN"
+		value = 91
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "YUG"
+		value = 67
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W30"
+		value = 29
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X08"
+		value = 24
+	}
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=386
+	name="STATE_386"
+	resources={
+		oil=4.000
+		steel=40.000
+	}
+
+	history={
+		owner = X61
+		victory_points = {
+			11714 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X61
+	}
+
+	provinces={
+		695 3766 6769 6782 9684 9746 11641 11669 11685 11714 
+	}
+	manpower=2079696
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

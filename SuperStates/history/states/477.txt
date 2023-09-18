@@ -1,0 +1,35 @@
+
+state={
+	id=477
+	name="STATE_477"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = X90
+		victory_points = {
+			3575 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			3755 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = X90
+	}
+
+	provinces={
+		574 741 754 3403 3575 3755 3757 6451 6478 6597 9573 9698 9714 11546 11561 11683 11703 11715 
+	}
+	manpower=816088
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

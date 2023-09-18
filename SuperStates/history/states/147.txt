@@ -1,0 +1,39 @@
+
+state={
+	id=147
+	name="STATE_147"
+	resources={
+		aluminium=2.000
+		rubber=14.000
+		steel=2.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			12853 6 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 3
+			dockyard = 3
+			12853 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = BRA
+	}
+
+	provinces={
+		2168 5151 5220 10874 12853 12913 12933 12947 12999 
+	}
+	manpower=4777716
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

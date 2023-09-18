@@ -1,0 +1,193 @@
+﻿converted_war_strategies_COL = {
+	enable = {
+		tag = COL
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "BLZ"
+		value = 308
+	}
+	ai_strategy = {
+		type = conquer
+		id = "PRU"
+		value = 273
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W34"
+		value = 215
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CUB"
+		value = 99
+	}
+	ai_strategy = {
+		type = conquer
+		id = "BRA"
+		value = 52
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CAM"
+		value = 38
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CSA"
+		value = 33
+	}
+}
+
+converted_diplo_strategies_COL = {
+	enable = {
+		tag = COL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "BAN"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "W25"
+		value = 321
+	}
+	ai_strategy = {
+		type = contain
+		id = "W26"
+		value = 295
+	}
+	ai_strategy = {
+		type = contain
+		id = "BRA"
+		value = 7
+	}
+	ai_strategy = {
+		type = contain
+		id = "CAM"
+		value = 7
+	}
+	ai_strategy = {
+		type = contain
+		id = "BLZ"
+		value = 6
+	}
+	ai_strategy = {
+		type = contain
+		id = "USA"
+		value = 5
+	}
+	ai_strategy = {
+		type = contain
+		id = "PRU"
+		value = 4
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BLZ"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CUB"
+		value = 125
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BRA"
+		value = 104
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAM"
+		value = 66
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 65
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W32"
+		value = 42
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 24
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W26"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W25"
+		value = 63
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ARG"
+		value = 3
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W34"
+		value = 3
+	}
+	ai_strategy = {
+		type = protect
+		id = "BLZ"
+		value = 240
+	}
+	ai_strategy = {
+		type = protect
+		id = "CUB"
+		value = 73
+	}
+	ai_strategy = {
+		type = protect
+		id = "BRA"
+		value = 40
+	}
+	ai_strategy = {
+		type = protect
+		id = "PRU"
+		value = 40
+	}
+	ai_strategy = {
+		type = protect
+		id = "W34"
+		value = 40
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CAM"
+		value = 215
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W28"
+		value = 99
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "USA"
+		value = 66
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BRA"
+		value = 63
+	}
+}

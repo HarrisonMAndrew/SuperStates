@@ -1,0 +1,32 @@
+
+state={
+	id=305
+	name="STATE_305"
+	resources={
+		tungsten=4.000
+	}
+
+	history={
+		owner = X80
+		victory_points = {
+			6742 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X80
+	}
+
+	provinces={
+		1736 1854 4741 4838 6742 7779 12676 
+	}
+	manpower=91944
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

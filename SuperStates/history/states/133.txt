@@ -1,0 +1,32 @@
+
+state={
+	id=133
+	name="STATE_133"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			8048 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BAN
+	}
+
+	provinces={
+		988 7219 7931 8048 10071 10883 10951 12741 12824 
+	}
+	manpower=517764
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

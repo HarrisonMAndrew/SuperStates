@@ -1,0 +1,85 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 1132
+		task_force = {
+			name = "2nd Fleet"
+			location = 1132
+			ship = { name = "CSS Pensacola" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Memphis" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Charleston" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS New Bern" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Norfolk" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Savannah" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Norfolk 2" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Paducah" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 10254
+		task_force = {
+			name = "4th Fleet"
+			location = 5998
+			ship = { name = "CSS Virginia" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS South Carolina" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Georgia" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Louisiana" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+		}
+	}
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 1132
+		task_force = {
+			name = "3rd Fleet"
+			location = 1132
+			ship = { name = "CSS Semmes" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Hood" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Mississippi" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Semmes 2" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS North Carolina" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Alabama" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Florida" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Florida 2" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Arkansas" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Kentucky" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Missouri" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Hood 2" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS Picket" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = CSA version_name = "Early Battleship" } } }
+			ship = { name = "CSS St. Louis" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Tulsa" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Wilmington" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Hope" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Arkadelphia" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Houston" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Fayetteville" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS New Orleans" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS New Orleans 2" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Biloxi" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+			ship = { name = "CSS Mobile" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = CSA version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "CSA"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "CSA"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

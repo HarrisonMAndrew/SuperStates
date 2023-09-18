@@ -1,0 +1,120 @@
+﻿capital = 216
+set_research_slots = 2
+
+oob = "X23_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_peru_bolivia
+set_convoys = 0
+
+set_politics = {
+    ruling_party = neutrality
+    last_election = "1821.1.3"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 94
+	neutrality = 6
+}
+
+add_opinion_modifier = { target = ARG modifier = negative_10 }
+add_opinion_modifier = { target = BLZ modifier = negative_10 }
+add_opinion_modifier = { target = BRA modifier = negative_10 }
+add_opinion_modifier = { target = COL modifier = negative_10 }
+add_opinion_modifier = { target = ENG modifier = positive_5 }
+add_opinion_modifier = { target = PRU modifier = negative_10 }
+add_opinion_modifier = { target = W27 modifier = negative_20 }
+add_opinion_modifier = { target = W28 modifier = negative_10 }
+add_opinion_modifier = { target = W29 modifier = negative_10 }
+add_opinion_modifier = { target = W33 modifier = negative_10 }
+add_opinion_modifier = { target = W34 modifier = negative_10 }
+add_opinion_modifier = { target = X39 modifier = negative_10 }
+add_opinion_modifier = { target = X55 modifier = negative_20 }
+add_opinion_modifier = { target = X66 modifier = negative_10 }
+add_opinion_modifier = { target = X80 modifier = negative_10 }
+add_opinion_modifier = { target = ZIM modifier = negative_20 }
+
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_quechua
+}
+
+recruit_character = X23_king_anco_coyuch_ii
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Cavillaca Iturri"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X23 }
+	}
+
+	create_operative_leader = {
+		name = "Axomamma Espejo"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_female_5.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X23 }
+	}
+
+	create_operative_leader = {
+		name = "Cavillaca Puma"
+		GFX = "gfx/leaders/South America/portrait_south_america_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X23 }
+	}
+
+	create_operative_leader = {
+		name = "Zambiza Tacaynamo"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_4.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X23 }
+	}
+
+	create_operative_leader = {
+		name = "Simón Paucar"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X23 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

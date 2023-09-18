@@ -1,0 +1,16 @@
+characters={
+	X75_valakshchi_tikhanov={
+		name=X75_valakshchi_tikhanov
+		portraits={
+			civilian={
+				large="GFX_Belarus_Auhien_Kalubovic"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

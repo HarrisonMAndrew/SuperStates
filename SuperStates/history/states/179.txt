@@ -1,0 +1,38 @@
+
+state={
+	id=179
+	name="STATE_179"
+	resources={
+		chromium=4.000
+		steel=4.000
+		tungsten=14.000
+	}
+
+	history={
+		owner = CAM
+		victory_points = {
+			11936 7 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 7
+			arms_factory = 2
+			dockyard = 3
+			4379 = {
+				naval_base = 10
+			}
+			air_base = 4
+
+		}
+		add_core_of = CAM
+	}
+
+	provinces={
+		1302 4255 4379 4397 7229 7280 9988 10016 10137 10309 11909 11936 12297 
+	}
+	manpower=3105888
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

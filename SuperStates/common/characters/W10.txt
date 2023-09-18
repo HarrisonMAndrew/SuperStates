@@ -1,0 +1,16 @@
+characters={
+	W10_king_tangaxuan_iv={
+		name=W10_king_tangaxuan_iv
+		portraits={
+			civilian={
+				large="gfx/leaders/HON/portrait_hon_tiburcio_carias_andino.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

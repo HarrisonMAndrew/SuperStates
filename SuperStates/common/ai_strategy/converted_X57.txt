@@ -1,0 +1,178 @@
+﻿converted_war_strategies_X57 = {
+	enable = {
+		tag = X57
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "CAM"
+		value = 240
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X52"
+		value = 78
+	}
+	ai_strategy = {
+		type = conquer
+		id = "PHI"
+		value = 68
+	}
+}
+
+converted_diplo_strategies_X57 = {
+	enable = {
+		tag = X57
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "BAN"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "W25"
+		value = 312
+	}
+	ai_strategy = {
+		type = contain
+		id = "W26"
+		value = 283
+	}
+	ai_strategy = {
+		type = contain
+		id = "CAM"
+		value = 10
+	}
+	ai_strategy = {
+		type = contain
+		id = "X52"
+		value = 6
+	}
+	ai_strategy = {
+		type = contain
+		id = "X68"
+		value = 3
+	}
+	ai_strategy = {
+		type = contain
+		id = "W28"
+		value = 3
+	}
+	ai_strategy = {
+		type = contain
+		id = "X30"
+		value = 2
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAM"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "PHI"
+		value = 256
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X52"
+		value = 116
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W12"
+		value = 80
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SIA"
+		value = 53
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 45
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BAN"
+		value = 41
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X80"
+		value = 26
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 15
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W26"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W25"
+		value = 68
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X30"
+		value = 60
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X68"
+		value = 4
+	}
+	ai_strategy = {
+		type = protect
+		id = "PHI"
+		value = 165
+	}
+	ai_strategy = {
+		type = protect
+		id = "X52"
+		value = 140
+	}
+	ai_strategy = {
+		type = protect
+		id = "X66"
+		value = 49
+	}
+	ai_strategy = {
+		type = protect
+		id = "SIA"
+		value = 43
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BRA"
+		value = 96
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X52"
+		value = 76
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CAM"
+		value = 62
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CSA"
+		value = 59
+	}
+}

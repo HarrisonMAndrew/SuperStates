@@ -1,0 +1,34 @@
+
+state={
+	id=229
+	name="STATE_229"
+
+	history={
+		owner = CSA
+		victory_points = {
+			1513 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			1513 = {
+				naval_base = 1
+			}
+			air_base = 1
+
+		}
+		add_core_of = USA
+		add_claim_by = CSA
+		add_claim_by = CUB
+	}
+
+	provinces={
+		1513 
+	}
+	manpower=613394
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

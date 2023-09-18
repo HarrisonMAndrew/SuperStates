@@ -1,0 +1,32 @@
+
+state={
+	id=753
+	name="STATE_753"
+	resources={
+		aluminium=9.000
+	}
+
+	history={
+		owner = W32
+		victory_points = {
+			10717 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = W32
+	}
+
+	provinces={
+		1523 1621 4569 7449 7607 10333 10391 10516 10717 
+	}
+	manpower=794748
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

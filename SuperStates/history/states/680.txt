@@ -1,0 +1,33 @@
+
+state={
+	id=680
+	name="STATE_680"
+	resources={
+		chromium=2.000
+	}
+
+	history={
+		owner = W26
+		victory_points = {
+			10772 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 8
+			arms_factory = 4
+			air_base = 9
+
+		}
+		add_core_of = W26
+		add_core_of = X85
+	}
+
+	provinces={
+		1107 1129 2002 2076 4979 7106 7903 8007 8022 8106 9084 10066 10139 10173 10729 10772 10843 10887 10898 12005 12708 12792 12822 
+	}
+	manpower=11460548
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

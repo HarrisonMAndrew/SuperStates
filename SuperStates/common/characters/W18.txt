@@ -1,0 +1,16 @@
+characters={
+	W18_tchowainin_ouachia={
+		name=W18_tchowainin_ouachia
+		portraits={
+			civilian={
+				large="GFX_nat_north_neutral"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

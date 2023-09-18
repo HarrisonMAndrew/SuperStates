@@ -1,0 +1,63 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 13087
+		task_force = {
+			name = "2nd Fleet"
+			location = 13087
+			ship = { name = "Hercules" definition = battleship start_experience_factor = 0.277 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BLZ version_name = "1936 Battleship" } } }
+			ship = { name = "St Vincent" definition = battleship start_experience_factor = 0.23084 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BLZ version_name = "1936 Battleship" } } }
+			ship = { name = "Collingwood" definition = battleship start_experience_factor = 0.277 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BLZ version_name = "1936 Battleship" } } }
+			ship = { name = "Shannon" definition = light_cruiser start_experience_factor = 0.18467 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Galatea" definition = light_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Blake" definition = light_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 10886
+		task_force = {
+			name = "1st Fleet"
+			location = 10886
+			ship = { name = "Dreadnought" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BLZ version_name = "1936 Battleship" } } }
+			ship = { name = "Bellerophon" definition = battleship start_experience_factor = 0.24801 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BLZ version_name = "1936 Battleship" } } }
+			ship = { name = "Superb" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BLZ version_name = "1936 Battleship" } } }
+			ship = { name = "Temeraire" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BLZ version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Balboa Battleship" definition = heavy_cruiser start_experience_factor = 0.1996 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Guatemala Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Balboa Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Guatemala Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Australia" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Undaunted" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Narcissus" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Immortalite" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Blenheim" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Nelson" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Warspite" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Orlando" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BLZ version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "BLZ"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "BLZ"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

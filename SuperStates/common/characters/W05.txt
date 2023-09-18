@@ -1,0 +1,16 @@
+characters={
+	W05_king_mujuma_ii={
+		name=W05_king_mujuma_ii
+		portraits={
+			civilian={
+				large="GFX_Dahomey_Moumouni"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

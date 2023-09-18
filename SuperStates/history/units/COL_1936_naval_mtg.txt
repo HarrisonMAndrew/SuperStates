@@ -1,0 +1,215 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 12997
+		task_force = {
+			name = "3rd Fleet"
+			location = 2110
+			ship = { name = "Cartagena de Indias" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "5th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "8th Fleet"
+		naval_base = 12997
+		task_force = {
+			name = "8th Fleet"
+			location = 12997
+			ship = { name = "Simón Bolívar" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "13th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 12997
+		task_force = {
+			name = "4th Fleet"
+			location = 2597
+			ship = { name = "2nd Yaviza Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Caracas Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "5th Fleet"
+		naval_base = 177
+		task_force = {
+			name = "5th Fleet"
+			location = 177
+			ship = { name = "1st Cayenne Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Trujillo Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Trujillo Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Trujillo Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Quibdó Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Cayenne Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "7th Yaviza Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Buenaventura Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Yaviza Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "9th Yaviza Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "8th Quibdó Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "5th Quibdó Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "4th Quibdó Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "6th Buenaventura Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "5th Buenaventura Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "5th Yaviza Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "6th Yaviza Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Cayenne Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "4th Buenaventura Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "4th Yaviza Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Güiria Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Quibdó Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Yaviza Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Caracas Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "Nueva Granada" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "Colombia" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "Cristóbal Colón" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "Almirante Padilla" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "Buenaventura" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "Fco. de Paula Santander" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "6th Quibdó Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "Independiente" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Quibdó Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Buenaventura Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Yaviza Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Cayenne Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Quibdó Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Caracas Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Cayenne Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Cayenne Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Quibdó Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "9th Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Cali" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Yaviza Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Yaviza Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Maracaibo Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "10th Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Buenaventura Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Yaviza Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Caracas Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Cundinamarca" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Medellin" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Trujillo Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "11th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Buenaventura Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "10th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Caracas Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Lima Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Sucre" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Güiria Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Guayaquil Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "9th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Güiria Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Cúcuta" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Buenaventura Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Lima Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "8th Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Yaviza Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "11th Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "12th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Buenaventura Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Buenaventura Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "6th Fleet"
+		naval_base = 10494
+		task_force = {
+			name = "6th Fleet"
+			location = 10494
+			ship = { name = "1st Buenaventura Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Buenaventura Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Santander" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "7th Fleet"
+		naval_base = 8113
+		task_force = {
+			name = "7th Fleet"
+			location = 8113
+			ship = { name = "8th Yaviza Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "7th Quibdó Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Güiria Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "8th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 1944
+		task_force = {
+			name = "2nd Fleet"
+			location = 1944
+			ship = { name = "Gran Colombia" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = COL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Güiria Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Güiria Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Caracas Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Yaviza Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "7th Buenaventura Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Yaviza Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Cayenne Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Pasto" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Bolívar" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "9th Fleet"
+		naval_base = 10494
+		task_force = {
+			name = "9th Fleet"
+			location = 10494
+			ship = { name = "1st Buenaventura Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Yaviza Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Caracas Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "14th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Buenaventura Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Yaviza Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "10th Fleet"
+		naval_base = 8113
+		task_force = {
+			name = "10th Fleet"
+			location = 8113
+			ship = { name = "1st Maracaibo Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Quibdó Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Buenaventura Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Córdoba" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Quibdó Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Bogotá" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = COL version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "COL"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "COL"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=672
+	name="STATE_672"
+	resources={
+		aluminium=6.000
+		oil=13.000
+		steel=6.000
+	}
+
+	history={
+		owner = W26
+		victory_points = {
+			8117 7 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 8
+			arms_factory = 4
+			air_base = 4
+
+		}
+		add_core_of = W26
+		add_claim_by = W02
+	}
+
+	provinces={
+		1986 2039 4928 4966 8031 8117 10881 10913 11249 12780 12809 12863 
+	}
+	manpower=11321028
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

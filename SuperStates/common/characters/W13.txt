@@ -1,0 +1,56 @@
+characters={
+	W13_gaetano_di_savoia_aosta={
+		name=W13_gaetano_di_savoia_aosta
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_1"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_1"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W13_amedeo_cusani={
+		name=W13_amedeo_cusani
+		portraits={
+			navy={
+				large="GFX_portrait_ITA_carlo_bergamini"
+			}
+			navy={
+				small="GFX_portrait_ITA_carlo_bergamini"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			maneuvering_skill=1
+			coordination_skill=2
+			legacy_id=0
+		}
+	}
+
+	W13_francesco_baldissera={
+		name=W13_francesco_baldissera
+		portraits={
+			civilian={
+				large="GFX_SRI_Giacomo_Matteotti"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=141
+	name="STATE_141"
+	resources={
+		rubber=2.000
+		steel=1.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			7959 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			7959 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = W27
+		add_core_of = BAN
+	}
+
+	provinces={
+		7959 
+	}
+	manpower=340068
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

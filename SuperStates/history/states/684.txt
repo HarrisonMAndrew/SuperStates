@@ -1,0 +1,37 @@
+
+state={
+	id=684
+	name="STATE_684"
+	resources={
+		steel=9.000
+		tungsten=7.000
+	}
+
+	history={
+		owner = W26
+		victory_points = {
+			12338 7 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 8
+			arms_factory = 2
+			dockyard = 2
+			11929 = {
+				naval_base = 1
+			}
+			air_base = 4
+
+		}
+		add_core_of = W26
+	}
+
+	provinces={
+		1609 4204 4616 4644 7565 7662 9993 10077 10389 10416 10443 11929 12338 12423 13208 
+	}
+	manpower=7568480
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

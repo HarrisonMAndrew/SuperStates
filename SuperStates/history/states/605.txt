@@ -1,0 +1,37 @@
+
+state={
+	id=605
+	name="STATE_605"
+	resources={
+		steel=15.000
+	}
+
+	history={
+		owner = W25
+		victory_points = {
+			6994 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			9865 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = W25
+		add_claim_by = JAP
+	}
+
+	provinces={
+		1063 3848 4067 4153 6870 6873 6994 9807 9859 9865 11847 12056 
+	}
+	manpower=2449080
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

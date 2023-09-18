@@ -1,0 +1,120 @@
+﻿capital = 633
+set_research_slots = 3
+
+oob = "LBV_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_italy
+set_convoys = 0
+
+set_politics = {
+    ruling_party = neutrality
+    last_election = "1821.1.3"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 92
+	neutrality = 8
+}
+
+add_opinion_modifier = { target = ARG modifier = negative_10 }
+add_opinion_modifier = { target = BLZ modifier = negative_10 }
+add_opinion_modifier = { target = BRA modifier = positive_20 }
+add_opinion_modifier = { target = COL modifier = negative_30 }
+add_opinion_modifier = { target = ENG modifier = positive_15 }
+add_opinion_modifier = { target = GER modifier = positive_30 }
+add_opinion_modifier = { target = PRU modifier = negative_10 }
+add_opinion_modifier = { target = W01 modifier = positive_10 }
+add_opinion_modifier = { target = W28 modifier = negative_10 }
+add_opinion_modifier = { target = W29 modifier = negative_10 }
+add_opinion_modifier = { target = W33 modifier = negative_10 }
+add_opinion_modifier = { target = W34 modifier = negative_10 }
+add_opinion_modifier = { target = X39 modifier = positive_20 }
+add_opinion_modifier = { target = X60 modifier = positive_10 }
+add_opinion_modifier = { target = X66 modifier = negative_10 }
+add_opinion_modifier = { target = X74 modifier = positive_15 }
+add_opinion_modifier = { target = X80 modifier = positive_20 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_north_italian
+}
+
+recruit_character = LBV_king_gian_galeazzo_ii
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Anna Porro"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { LBV }
+	}
+
+	create_operative_leader = {
+		name = "Maria Solari"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { LBV }
+	}
+
+	create_operative_leader = {
+		name = "Maria Sacchi"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { LBV }
+	}
+
+	create_operative_leader = {
+		name = "Ettore Emo"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { LBV }
+	}
+
+	create_operative_leader = {
+		name = "Alfonso Saletta"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { LBV }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

@@ -1,0 +1,55 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 7321
+		task_force = {
+			name = "2nd Fleet"
+			location = 7321
+			ship = { name = "1st Flores Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "2nd Flores Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "3rd Flores Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "4th Flores Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "5th Flores Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "6th Flores Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "7th Flores Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "8th Flores Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "9th Flores Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "1st Flores Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "2nd Flores Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "3rd Flores Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "1st Fiji Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "4th Menado Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "5th Menado Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "1st New Hebrides Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "2nd Menado Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "2nd Flores Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "2nd Fiji Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "3rd Menado Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "2nd New Hebrides Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "1st Bougainville Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "1st Menado Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+			ship = { name = "1st Flores Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X52 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "X52"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "X52"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=122
+	name="STATE_122"
+	resources={
+		aluminium=2.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			2180 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			12971 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = BAN
+		add_core_of = ZIM
+		add_claim_by = MLW
+	}
+
+	provinces={
+		2180 5155 12950 12971 
+	}
+	manpower=4052868
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

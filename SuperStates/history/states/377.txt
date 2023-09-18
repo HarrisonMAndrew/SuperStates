@@ -1,0 +1,33 @@
+
+state={
+	id=377
+	name="STATE_377"
+
+	history={
+		owner = X60
+		victory_points = {
+			6377 6 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 3
+			dockyard = 2
+			241 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = X60
+	}
+
+	provinces={
+		241 247 336 3395 6377 11360 11388 
+	}
+	manpower=3348732
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

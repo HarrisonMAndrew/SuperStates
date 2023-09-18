@@ -1,0 +1,40 @@
+
+state={
+	id=376
+	name="STATE_376"
+	resources={
+		oil=3.000
+	}
+
+	history={
+		owner = X60
+		victory_points = {
+			6349 7 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			6349 = {
+				naval_base = 10
+			}
+			air_base = 4
+
+		}
+		add_core_of = W01
+		add_core_of = X60
+		W01 = {
+			set_province_controller = 3326
+		}
+	}
+
+	provinces={
+		374 3271 3326 6218 6263 6298 6325 6349 9264 
+	}
+	manpower=5634172
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

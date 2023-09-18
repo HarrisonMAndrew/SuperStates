@@ -1,0 +1,45 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 9932
+		task_force = {
+			name = "3rd Fleet"
+			location = 9932
+			ship = { name = "1st Trabzon Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X14 } } }
+			ship = { name = "2nd Trabzon Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X14 } } }
+			ship = { name = "3rd Trabzon Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X14 } } }
+			ship = { name = "4th Trabzon Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X14 } } }
+			ship = { name = "5th Trabzon Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X14 } } }
+			ship = { name = "6th Trabzon Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X14 } } }
+			ship = { name = "1st Sinop Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X14 } } }
+			ship = { name = "Georgios Averof" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X14 } } }
+			ship = { name = "Elli" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X14 } } }
+			ship = { name = "Antinaurkos Condoriotis" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X14 } } }
+			ship = { name = "Navarhos Miaoulis" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X14 } } }
+			ship = { name = "Lambros Katsonis" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X14 } } }
+			ship = { name = "Árgos" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X14 } } }
+			ship = { name = "Agamemnon" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X14 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "X14"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "X14"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

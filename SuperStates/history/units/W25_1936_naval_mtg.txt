@@ -1,0 +1,203 @@
+units = {
+	fleet = {
+		name = "11th Fleet"
+		naval_base = 4180
+		task_force = {
+			name = "11th Fleet"
+			location = 4180
+			ship = { name = "1st Huaian Dreadnought" definition = battleship start_experience_factor = 0.2638 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Wuding Dreadnought" definition = battleship start_experience_factor = 0.277 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Wuding Dreadnought" definition = battleship start_experience_factor = 0.277 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Wuding Dreadnought" definition = battleship start_experience_factor = 0.28571 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Huaian Dreadnought" definition = battleship start_experience_factor = 0.28571 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Huaian Dreadnought" definition = battleship start_experience_factor = 0.2638 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "4th Wuding Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "5th Wuding Dreadnought" definition = battleship start_experience_factor = 0.277 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "6th Wuding Dreadnought" definition = battleship start_experience_factor = 0.2638 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "7th Wuding Dreadnought" definition = battleship start_experience_factor = 0.25577 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "8th Wuding Dreadnought" definition = battleship start_experience_factor = 0.18261 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Mukden Dreadnought" definition = battleship start_experience_factor = 0.23616 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Laizhou Dreadnought" definition = battleship start_experience_factor = 0.23616 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "9th Wuding Dreadnought" definition = battleship start_experience_factor = 0.21806 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Chengde Dreadnought" definition = battleship start_experience_factor = 0.2638 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Mukden Dreadnought" definition = battleship start_experience_factor = 0.24359 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Laizhou Dreadnought" definition = battleship start_experience_factor = 0.23616 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Chengde Dreadnought" definition = battleship start_experience_factor = 0.24359 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Huaian Battleship" definition = heavy_cruiser start_experience_factor = 0.25577 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Wuding Battleship" definition = heavy_cruiser start_experience_factor = 0.25577 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Huaian Battleship" definition = heavy_cruiser start_experience_factor = 0.25577 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Laizhou Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Wuding Battleship" definition = heavy_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Huaian Battleship" definition = heavy_cruiser start_experience_factor = 0.2638 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Laizhou Battleship" definition = heavy_cruiser start_experience_factor = 0.24359 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Wuding Battleship" definition = heavy_cruiser start_experience_factor = 0.2638 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Laizhou Battleship" definition = heavy_cruiser start_experience_factor = 0.2638 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Laizhou Battleship" definition = heavy_cruiser start_experience_factor = 0.2721 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Mukden Cruiser" definition = light_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Mukden Cruiser" definition = light_cruiser start_experience_factor = 0.24359 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Chengde Cruiser" definition = light_cruiser start_experience_factor = 0.28571 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Pyongyang Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Laizhou Cruiser" definition = light_cruiser start_experience_factor = 0.2638 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Mukden Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Chengde Cruiser" definition = light_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Huaian Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Pyongyang Cruiser" definition = light_cruiser start_experience_factor = 0.2638 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Mukden Cruiser" definition = light_cruiser start_experience_factor = 0.25123 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Chengde Cruiser" definition = light_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Pyongyang Cruiser" definition = light_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Mukden Cruiser" definition = light_cruiser start_experience_factor = 0.28571 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Chengde Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Pyongyang Cruiser" definition = light_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Chengde Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Huaian Cruiser" definition = light_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Laizhou Cruiser" definition = light_cruiser start_experience_factor = 0.28571 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Chengde Cruiser" definition = light_cruiser start_experience_factor = 0.28571 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Huaian Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Laizhou Cruiser" definition = light_cruiser start_experience_factor = 0.25123 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Laizhou Cruiser" definition = light_cruiser start_experience_factor = 0.28571 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Chengde Cruiser" definition = light_cruiser start_experience_factor = 0.277 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "8th Chengde Cruiser" definition = light_cruiser start_experience_factor = 0.28571 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "9th Chengde Cruiser" definition = light_cruiser start_experience_factor = 0.20767 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "10th Chengde Cruiser" definition = light_cruiser start_experience_factor = 0.25577 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "5th Fleet"
+		naval_base = 3147
+		task_force = {
+			name = "5th Fleet"
+			location = 3147
+			ship = { name = "1st Kandalaksha Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Mezen Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Mezen Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Kandalaksha Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Kandalaksha Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Kandalaksha Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Kandalaksha Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Kandalaksha Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Kandalaksha Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "38th Fleet"
+		naval_base = 10598
+		task_force = {
+			name = "38th Fleet"
+			location = 10598
+			ship = { name = "1st Petropavlovsk Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Talaya Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Talaya Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Talaya Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Talaya Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Talaya Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "6th Talaya Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Petropavlovsk Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Petropavlovsk Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Talaya Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Talaya Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Talaya Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Petropavlovsk Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "40th Fleet"
+		naval_base = 9279
+		task_force = {
+			name = "40th Fleet"
+			location = 9279
+			ship = { name = "3rd Malmö Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Malmö Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Malmö Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Trondheim Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Trondheim Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Vaasa Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Vaasa Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Vaasa Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Oulu Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "4th Vaasa Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Oulu Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Stockholm Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "4th Oulu Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Oulu Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "5th Oulu Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "3rd Trondheim Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+			ship = { name = "1st Vaasa Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Vaasa Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Vaasa Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Vaasa Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Malmö Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "6th Vaasa Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Vaasa Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Christianssand Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Christianssand Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "7th Vaasa Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Trondheim Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Oulu Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Christianssand Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Christianssand Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Christianssand Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Malmö Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Christianssand Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Malmö Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Christianssand Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Malmö Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Christianssand Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Malmö Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Malmö Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Malmö Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Malmö Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Vaasa Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Vaasa Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Vaasa Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "8th Malmö Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "9th Malmö Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "10th Malmö Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Trondheim Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Trondheim Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Trondheim Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Trondheim Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Oulu Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 9279
+		task_force = {
+			name = "2nd Fleet"
+			location = 9279
+			ship = { name = "6th Oulu Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = W25 version_name = "1936 Battleship" } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 10598
+		task_force = {
+			name = "4th Fleet"
+			location = 10598
+			ship = { name = "4th Talaya Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = W25 version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "W25"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "W25"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

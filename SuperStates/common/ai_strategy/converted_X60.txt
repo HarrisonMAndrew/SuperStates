@@ -1,0 +1,158 @@
+﻿converted_war_strategies_X60 = {
+	enable = {
+		tag = X60
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 3617
+	}
+	ai_strategy = {
+		type = conquer
+		id = "GER"
+		value = 548
+	}
+	ai_strategy = {
+		type = conquer
+		id = "DEN"
+		value = 324
+	}
+}
+
+converted_diplo_strategies_X60 = {
+	enable = {
+		tag = X60
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "BAN"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "W25"
+		value = 324
+	}
+	ai_strategy = {
+		type = contain
+		id = "W26"
+		value = 297
+	}
+	ai_strategy = {
+		type = contain
+		id = "GER"
+		value = 11
+	}
+	ai_strategy = {
+		type = contain
+		id = "FRA"
+		value = 9
+	}
+	ai_strategy = {
+		type = contain
+		id = "W01"
+		value = 7
+	}
+	ai_strategy = {
+		type = contain
+		id = "ENG"
+		value = 3
+	}
+	ai_strategy = {
+		type = contain
+		id = "X74"
+		value = 3
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "DEN"
+		value = 312
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "GER"
+		value = 250
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W01"
+		value = 26
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W26"
+		value = 20
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W26"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W25"
+		value = 106
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X74"
+		value = 33
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X14"
+		value = 21
+	}
+	ai_strategy = {
+		type = protect
+		id = "DEN"
+		value = 20
+	}
+	ai_strategy = {
+		type = protect
+		id = "X42"
+		value = 20
+	}
+	ai_strategy = {
+		type = protect
+		id = "X96"
+		value = 20
+	}
+	ai_strategy = {
+		type = protect
+		id = "UKR"
+		value = 20
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W01"
+		value = 138
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "GER"
+		value = 129
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "FRA"
+		value = 126
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "ARG"
+		value = 73
+	}
+}

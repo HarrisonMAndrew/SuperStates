@@ -1,0 +1,40 @@
+
+state={
+	id=732
+	name="STATE_732"
+	resources={
+		chromium=5.000
+		oil=3.000
+		steel=7.000
+	}
+
+	history={
+		owner = W28
+		victory_points = {
+			4791 7 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 7
+			arms_factory = 3
+			dockyard = 2
+			4791 = {
+				naval_base = 10
+			}
+			air_base = 4
+
+		}
+		add_core_of = W28
+		add_core_of = W30
+		add_claim_by = X11
+	}
+
+	provinces={
+		1759 2130 2155 4776 4791 7811 10622 10637 12932 
+	}
+	manpower=6666128
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=459
+	name="STATE_459"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = PRU
+		victory_points = {
+			12953 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+			air_base = 1
+
+		}
+		add_core_of = PRU
+	}
+
+	provinces={
+		5166 8160 8191 10940 12953 
+	}
+	manpower=2202432
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

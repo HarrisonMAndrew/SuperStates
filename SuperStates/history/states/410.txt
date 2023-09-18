@@ -1,0 +1,33 @@
+
+state={
+	id=410
+	name="STATE_410"
+
+	history={
+		owner = X68
+		victory_points = {
+			4579 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			4579 = {
+				naval_base = 1
+			}
+			air_base = 2
+
+		}
+		add_core_of = X68
+	}
+
+	provinces={
+		4579 
+	}
+	manpower=270788
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

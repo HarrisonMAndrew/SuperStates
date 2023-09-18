@@ -1,0 +1,16 @@
+characters={
+	X81_igor_gurko={
+		name=X81_igor_gurko
+		portraits={
+			civilian={
+				large="GFX_Belarus_Stanislaw_Bulak_Balachowicz"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

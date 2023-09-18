@@ -1,0 +1,33 @@
+
+state={
+	id=643
+	name="STATE_643"
+
+	history={
+		owner = W26
+		victory_points = {
+			4159 7 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 7
+			arms_factory = 2
+			dockyard = 3
+			10074 = {
+				naval_base = 10
+			}
+			air_base = 4
+
+		}
+		add_core_of = W26
+	}
+
+	provinces={
+		1009 1156 3857 4014 4159 7059 7147 10074 12047 13256 
+	}
+	manpower=3608680
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=185
+	name="STATE_185"
+	resources={
+		rubber=21.000
+	}
+
+	history={
+		owner = CAM
+		victory_points = {
+			7227 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			7227 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = CAM
+	}
+
+	provinces={
+		4409 7227 8221 10282 10310 12280 12955 
+	}
+	manpower=902428
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

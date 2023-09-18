@@ -1,0 +1,35 @@
+
+state={
+	id=158
+	name="STATE_158"
+	resources={
+		chromium=8.000
+	}
+
+	history={
+		owner = X14
+		victory_points = {
+			11984 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			11984 = {
+				naval_base = 8
+			}
+			air_base = 0
+
+		}
+		add_core_of = X14
+	}
+
+	provinces={
+		7193 11984 
+	}
+	manpower=517796
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

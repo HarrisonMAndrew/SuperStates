@@ -1,0 +1,16 @@
+characters={
+	SOM_naleye_gurey={
+		name=SOM_naleye_gurey
+		portraits={
+			civilian={
+				large="GFX_SOM_Haji_Bashir_Ismail_Yusuf"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

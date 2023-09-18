@@ -1,0 +1,29 @@
+
+state={
+	id=211
+	name="STATE_211"
+
+	history={
+		owner = COL
+		victory_points = {
+			10792 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = COL
+	}
+
+	provinces={
+		1887 2007 5026 10792 12729 12770 12825 
+	}
+	manpower=1975440
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

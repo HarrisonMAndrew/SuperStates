@@ -1,0 +1,18 @@
+﻿converted_war_strategies_LBV = {
+	enable = {
+		tag = LBV
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_LBV = {
+	enable = {
+		tag = LBV
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=355
+	name="STATE_355"
+
+	history={
+		owner = X55
+		victory_points = {
+			8219 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			8248 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = X55
+	}
+
+	provinces={
+		2115 8219 8248 
+	}
+	manpower=3077736
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}
