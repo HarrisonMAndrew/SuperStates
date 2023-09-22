@@ -1,0 +1,34 @@
+
+state={
+	id=115
+	name="STATE_115"
+	resources={
+		chromium=12.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			12986 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = W05
+		add_core_of = BAN
+	}
+
+	provinces={
+		5221 10594 10930 12986 13209 
+	}
+	manpower=1522168
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

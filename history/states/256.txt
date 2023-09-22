@@ -1,0 +1,35 @@
+
+state={
+	id=256
+	name="STATE_256"
+	resources={
+		aluminium=8.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			12674 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			12674 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = ENG
+	}
+
+	provinces={
+		4861 12674 12689 
+	}
+	manpower=211588
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

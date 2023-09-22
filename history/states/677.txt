@@ -1,0 +1,35 @@
+
+state={
+	id=677
+	name="STATE_677"
+	resources={
+		chromium=3.000
+		oil=1.000
+		steel=2.000
+		tungsten=7.000
+	}
+
+	history={
+		owner = W26
+		victory_points = {
+			2017 7 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 8
+			arms_factory = 4
+			air_base = 3
+
+		}
+		add_core_of = W26
+	}
+
+	provinces={
+		1948 1995 2017 2062 2078 2101 4893 4949 5020 5064 7916 8053 10476 10896 12788 12871 
+	}
+	manpower=3590116
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

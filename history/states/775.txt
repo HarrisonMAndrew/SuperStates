@@ -1,0 +1,29 @@
+
+state={
+	id=775
+	name="STATE_775"
+
+	history={
+		owner = ZIM
+		victory_points = {
+			4851 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = ZIM
+	}
+
+	provinces={
+		1874 2151 2216 4851 7842 10929 
+	}
+	manpower=1700628
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

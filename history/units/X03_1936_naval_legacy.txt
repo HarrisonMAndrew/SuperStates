@@ -1,0 +1,37 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 1801
+		task_force = {
+			name = "1st Fleet"
+			location = 1801
+			ship = { name = "Te Mana" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X03 } } }
+			ship = { name = "1st Nelson Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X03 } } }
+			ship = { name = "2nd Nelson Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X03 } } }
+			ship = { name = "3rd Nelson Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X03 } } }
+			ship = { name = "4th Nelson Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X03 } } }
+			ship = { name = "Te Mana 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X03 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "X03"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "X03"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

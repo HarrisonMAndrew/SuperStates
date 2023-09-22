@@ -1,0 +1,35 @@
+
+state={
+	id=25
+	name="STATE_25"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = BLZ
+		victory_points = {
+			7630 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			7617 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = BLZ
+	}
+
+	provinces={
+		1633 4611 4624 7617 7630 
+	}
+	manpower=841936
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

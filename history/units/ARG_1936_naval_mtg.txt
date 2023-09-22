@@ -1,0 +1,119 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 12364
+		task_force = {
+			name = "3rd Fleet"
+			location = 12364
+			ship = { name = "ARA Argentina" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "ARA General Rosas" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "ARA Moreno" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "ARA Paz" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "ARA Presidente Avellaneda" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "ARA Río de la Plata" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "ARA Alvear" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "ARA Rivadavia" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "ARA Urquiza" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "ARA Yrigoyen" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "1st Antofagasta Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "1st Copiapó Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "1st Valdivia Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "1st Osorno Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "4th Copiapó Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Antofagasta Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Antofagasta Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Copiapó Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Valdivia Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Antofagasta Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Osorno Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Antofagasta Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Haoqi Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Puerto Deseado Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Antofagasta Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Copiapó Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Haoqi Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Paraná Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Puerto Deseado Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Puerto Deseado Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "6th Antofagasta Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Copiapó Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Osorno Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "ARA Roca" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Sarratea" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Álvarez Jonte" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Almirante Brown" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Castelli" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Belgrano" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Buenos Aires" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Garibaldi" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Chichlana" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Güemes" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Liniers" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Matheu" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Mitre" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Nueve de Julio" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Paso" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Patagonia" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Patria" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Pueyrredón" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Haoqi Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Viedma Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Veinticinco de Mayo" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Copiapó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Copiapó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Antofagasta Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Copiapó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Antofagasta Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Valdivia Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Copiapó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Antofagasta Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Copiapó Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA San Martín" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "ARA Sarratea 2" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 5121
+		task_force = {
+			name = "4th Fleet"
+			location = 5121
+			ship = { name = "2nd Osorno Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Osorno Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Valdivia Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 11000
+		task_force = {
+			name = "2nd Fleet"
+			location = 11000
+			ship = { name = "2nd Antofagasta Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ARG version_name = "1936 Battleship" } } }
+			ship = { name = "7th Antofagasta Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ARG version_name = "1936 Heavy Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "ARG"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "ARG"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

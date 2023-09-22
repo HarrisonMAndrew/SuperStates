@@ -1,0 +1,37 @@
+
+state={
+	id=361
+	name="STATE_361"
+	resources={
+		chromium=6.000
+		steel=4.000
+	}
+
+	history={
+		owner = X57
+		victory_points = {
+			1224 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			1224 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = X57
+	}
+
+	provinces={
+		1224 1311 1340 4269 4373 7307 
+	}
+	manpower=659140
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

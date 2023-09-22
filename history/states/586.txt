@@ -1,0 +1,36 @@
+
+state={
+	id=586
+	name="STATE_586"
+	resources={
+		aluminium=17.000
+		chromium=21.000
+		steel=15.000
+		tungsten=5.000
+	}
+
+	history={
+		owner = W25
+		victory_points = {
+			5062 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 1
+			air_base = 2
+
+		}
+		add_core_of = W25
+		add_core_of = X98
+	}
+
+	provinces={
+		1483 1675 1825 2058 4224 4316 4391 4768 4923 5062 10408 10488 10530 10660 12370 12511 12581 
+	}
+	manpower=4571916
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

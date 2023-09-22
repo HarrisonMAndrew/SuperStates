@@ -1,4 +1,0 @@
-﻿l_french:
- COL_Naval_treaty_nation:0 "@COL [COL.GetName]"
- W25_Naval_treaty_nation:0 "@W25 [W25.GetName]"
- W26_Naval_treaty_nation:0 "@W26 [W26.GetName]"

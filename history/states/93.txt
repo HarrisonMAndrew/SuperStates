@@ -1,0 +1,36 @@
+
+state={
+	id=93
+	name="STATE_93"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			1977 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1977 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = W20
+		add_core_of = BAN
+	}
+
+	provinces={
+		1977 2003 2046 4138 4963 7989 8105 10745 10902 12725 12796 12826 12836 12881 
+	}
+	manpower=2655244
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

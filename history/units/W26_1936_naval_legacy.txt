@@ -1,0 +1,235 @@
+units = {
+	fleet = {
+		name = "5th Fleet"
+		naval_base = 9809
+		task_force = {
+			name = "5th Fleet"
+			location = 5347
+			ship = { name = "1st Karachi Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Rajkot Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Corfu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Missolonghi Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Volos Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "6th Chios Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Vlore Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Gallipoli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Izmit Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "6th Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "5th Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Bolu Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "5th Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Lengeh Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Abadan Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Bela Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Jessore Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Cuttack Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Chios Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Chios Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Burgas Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Antalya Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Burgas Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Chios Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Vlore Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Vlore Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Adana Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Chios Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "5th Balikesir Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "5th Chios Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Karachi Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Rajkot Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Chios Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Lengeh Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Jessore Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Abadan Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Antalya Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Balikesir Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Lengeh Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Jessore Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Abadan Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Ferrara Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Massa Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Rome Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Aquila Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Grosetto Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Palermo Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Burgas Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Polygyros Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Corfu Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Missolonghi Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Chios Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Volos Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Vlore Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Gallipoli Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Vlore Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Chios Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Balikesir Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Antalya Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Vlore Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Lengeh Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Aquila Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Sassari Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Abadan Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Lengeh Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Padua Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Trieste Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Padua Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Trieste Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Polygyros Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Trieste Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Trieste Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Abadan Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Lengeh Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Abadan Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Lengeh Commerce Raider" definition = destroyer equipment = { destroyer_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Padua Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Sassari Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Trieste Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Aquila Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Palermo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Padua Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Sassari Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Trieste Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Aquila Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Palermo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Massa Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Aquila Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Massa Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Padua Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Trieste Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Aquila Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Palermo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "6th Trieste Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Burgas Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Polygyros Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Genoa Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Ferrara Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Corfu Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Rome Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "6th Massa Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Missolonghi Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Volos Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "6th Aquila Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Vlore Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "6th Palermo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Chios Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Grosetto Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Burgas Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Gallipoli Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Polygyros Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Izmit Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Corfu Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Balikesir Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Missolonghi Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Chios Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Antioch Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Vlore Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Volos Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Antalya Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Málaga Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "2nd Gallipoli Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Bolu Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Genoa Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Ferrara Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "7th Massa Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Adana Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Rome Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "7th Palermo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "5th Burgas Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Polygyros Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "6th Sassari Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "7th Sassari Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Málaga Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "6th Burgas Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Lengeh Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Bela Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Abadan Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Jessore Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "1st Cuttack Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+		}
+	}
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 9809
+		task_force = {
+			name = "1st Fleet"
+			location = 5555
+			ship = { name = "3rd Corsica Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "5th Málaga Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Gibraltar Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Corsica Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Genoa Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "6th Málaga Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "8th Massa Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "8th Trieste Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "7th Aquila Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "8th Padua Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "7th Trieste Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "5th Ferrara Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "9th Padua Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "5th Genoa Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "3rd Grosetto Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "6th Ferrara Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "9th Massa Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "8th Aquila Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+			ship = { name = "4th Grosetto Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+		}
+	}
+	fleet = {
+		name = "10th Fleet"
+		naval_base = 9809
+		task_force = {
+			name = "10th Fleet"
+			location = 5555
+			ship = { name = "4th Gibraltar Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 9809
+		task_force = {
+			name = "2nd Fleet"
+			location = 5555
+			ship = { name = "8th Palermo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+		}
+	}
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 9809
+		task_force = {
+			name = "3rd Fleet"
+			location = 5555
+			ship = { name = "9th Palermo Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W26 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "W26"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "W26"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

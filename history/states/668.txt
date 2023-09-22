@@ -1,0 +1,30 @@
+
+state={
+	id=668
+	name="STATE_668"
+
+	history={
+		owner = W26
+		victory_points = {
+			5098 7 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 8
+			arms_factory = 4
+			air_base = 4
+
+		}
+		add_core_of = W02
+		add_core_of = W26
+	}
+
+	provinces={
+		829 2065 4943 5050 5098 8040 8125 9816 10774 12773 
+	}
+	manpower=4619844
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

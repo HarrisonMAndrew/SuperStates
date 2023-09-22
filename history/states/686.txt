@@ -1,0 +1,39 @@
+
+state={
+	id=686
+	name="STATE_686"
+	resources={
+		aluminium=5.000
+		chromium=16.000
+		steel=20.000
+	}
+
+	history={
+		owner = W26
+		victory_points = {
+			10088 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 8
+			arms_factory = 2
+			dockyard = 2
+			10088 = {
+				naval_base = 10
+			}
+			air_base = 9
+
+		}
+		add_core_of = W26
+		add_core_of = X83
+	}
+
+	provinces={
+		1059 1101 1538 4104 4513 9946 10060 10088 10116 10428 12063 
+	}
+	manpower=4150824
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,47 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 9932
+		task_force = {
+			name = "3rd Fleet"
+			location = 9932
+			ship = { name = "1st Trabzon Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Trabzon Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "3rd Trabzon Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "4th Trabzon Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "5th Trabzon Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "6th Trabzon Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Sinop Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Georgios Averof" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Elli" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Antinaurkos Condoriotis" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Navarhos Miaoulis" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Lambros Katsonis" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Árgos" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Light Cruiser" } } }
+			ship = { name = "Agamemnon" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X14 version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "X14"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "X14"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

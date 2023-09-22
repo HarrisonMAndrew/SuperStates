@@ -1,0 +1,33 @@
+
+state={
+	id=457
+	name="STATE_457"
+	resources={
+		oil=2.000
+		steel=14.000
+	}
+
+	history={
+		owner = X82
+		victory_points = {
+			4854 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = X82
+	}
+
+	provinces={
+		709 751 4854 5205 10599 
+	}
+	manpower=1441804
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

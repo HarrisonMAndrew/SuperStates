@@ -1,0 +1,45 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 7191
+		task_force = {
+			name = "2nd Fleet"
+			location = 7191
+			ship = { name = "1st Fuzhou Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "1st Chaozhou Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "2nd Chaozhou Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "3rd Fuzhou Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "2nd Shanghai Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "1st Shanghai Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "1st Shanghai Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "1st Shanghai Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "1st Fuzhou Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "2nd Fuzhou Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "1st Chaozhou Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "3rd Fuzhou Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "1st Hangzhou Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X30 } } }
+			ship = { name = "4th Fuzhou Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X30 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "X30"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "X30"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=603
+	name="STATE_603"
+	resources={
+		steel=4.000
+		tungsten=11.000
+	}
+
+	history={
+		owner = W25
+		victory_points = {
+			7155 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			1003 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = W25
+	}
+
+	provinces={
+		848 1003 4004 4107 7070 7155 9981 10065 11915 11958 12040 
+	}
+	manpower=3758116
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

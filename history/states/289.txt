@@ -1,0 +1,32 @@
+
+state={
+	id=289
+	name="STATE_289"
+	resources={
+		steel=4.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			512 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 2
+
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		512 669 3493 3509 3534 3655 3671 6518 6533 6688 9492 9629 11463 11596 11611 11631 
+	}
+	manpower=2012144
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

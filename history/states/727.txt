@@ -1,0 +1,35 @@
+
+state={
+	id=727
+	name="STATE_727"
+
+	history={
+		owner = W27
+		victory_points = {
+			12762 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			10919 = {
+				naval_base = 1
+			}
+			air_base = 6
+
+		}
+		add_core_of = W27
+		BAN = {
+			set_province_controller = 10919
+		}
+	}
+
+	provinces={
+		10919 12762 12874 
+	}
+	manpower=1707736
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

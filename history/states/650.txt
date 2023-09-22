@@ -1,0 +1,38 @@
+
+state={
+	id=650
+	name="STATE_650"
+	resources={
+		chromium=3.000
+		steel=5.000
+	}
+
+	history={
+		owner = W26
+		victory_points = {
+			10203 7 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 7
+			arms_factory = 3
+			dockyard = 2
+			10203 = {
+				naval_base = 10
+			}
+			air_base = 4
+
+		}
+		add_core_of = W26
+		add_claim_by = X14
+	}
+
+	provinces={
+		1106 1173 4078 4178 4193 7096 7211 10203 11965 
+	}
+	manpower=3395564
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

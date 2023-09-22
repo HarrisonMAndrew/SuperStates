@@ -1,0 +1,32 @@
+
+state={
+	id=628
+	name="STATE_628"
+
+	history={
+		owner = W26
+		victory_points = {
+			13010 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			13010 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = W26
+	}
+
+	provinces={
+		13010 
+	}
+	manpower=804420
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

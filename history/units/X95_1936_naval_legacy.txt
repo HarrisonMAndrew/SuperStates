@@ -1,0 +1,55 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 11834
+		task_force = {
+			name = "2nd Fleet"
+			location = 11834
+			ship = { name = "7th Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "3rd Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "1st Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "2nd Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "4th Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "5th Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "6th Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "8th Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "9th Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "10th Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "11th Marsella Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "1st Marsella Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "7th Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "8th Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "1st Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "2nd Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "3rd Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "4th Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "5th Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "6th Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "9th Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "10th Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "11th Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+			ship = { name = "12th Marsella Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = X95 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "X95"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "X95"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

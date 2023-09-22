@@ -1,0 +1,37 @@
+
+state={
+	id=744
+	name="STATE_744"
+	resources={
+		aluminium=2.000
+		tungsten=13.000
+	}
+
+	history={
+		owner = W30
+		victory_points = {
+			10365 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			10365 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = W30
+	}
+
+	provinces={
+		1501 1514 1557 1644 2166 2187 4505 4520 4560 4648 5198 7506 7525 7538 7566 8230 10338 10350 10365 10378 10460 12354 12367 12382 12411 12949 12957 
+	}
+	manpower=4133438
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

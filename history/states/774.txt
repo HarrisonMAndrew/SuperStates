@@ -1,0 +1,32 @@
+
+state={
+	id=774
+	name="STATE_774"
+
+	history={
+		owner = ZIM
+		victory_points = {
+			5164 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			5164 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = ZIM
+	}
+
+	provinces={
+		5164 
+	}
+	manpower=1092032
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,38 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 8245
+		task_force = {
+			name = "2nd Fleet"
+			location = 8245
+			ship = { name = "1st Angoche Commerce Raider" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "1st Sofala Commerce Raider" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Sofala Commerce Raider" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "1st Lourenzo Marques Commerce Raider" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Angoche Commerce Raider" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Sofala Commerce Raider" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Angoche Commerce Raider" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "4th Sofala Commerce Raider" definition = destroyer start_experience_factor = 0.05 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "1st Ulundi Commerce Raider" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Lourenzo Marques Commerce Raider" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Ulundi Commerce Raider" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Lourenzo Marques Commerce Raider" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Ulundi Commerce Raider" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "4th Lourenzo Marques Commerce Raider" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+			ship = { name = "4th Ulundi Commerce Raider" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = ZIM version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "ZIM"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

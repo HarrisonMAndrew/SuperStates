@@ -1,0 +1,33 @@
+
+state={
+	id=467
+	name="STATE_467"
+	resources={
+		aluminium=1.000
+		steel=2.000
+	}
+
+	history={
+		owner = X89
+		victory_points = {
+			9771 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = X89
+	}
+
+	provinces={
+		793 9771 11754 
+	}
+	manpower=568012
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

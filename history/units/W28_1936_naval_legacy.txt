@@ -1,0 +1,46 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 7669
+		task_force = {
+			name = "1st Fleet"
+			location = 7669
+			ship = { name = "1st Port Macquarie Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "2nd Port Macquarie Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "3rd Port Macquarie Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "1st Port Macquarie Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "2nd Port Macquarie Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "1st Brisbane Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "1st Robe Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "1st Warmambool Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "1st Port Macquarie Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "2nd Port Macquarie Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "3rd Port Macquarie Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "1st Warmambool Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "4th Port Macquarie Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "1st Kojonup Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W28 } } }
+			ship = { name = "2nd Kojonup Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = W28 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "W28"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "W28"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

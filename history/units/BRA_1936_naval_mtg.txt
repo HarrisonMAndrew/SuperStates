@@ -1,0 +1,95 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 2227
+		task_force = {
+			name = "3rd Fleet"
+			location = 2227
+			ship = { name = "Marshal Floriano" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BRA version_name = "Early Battleship" } } }
+			ship = { name = "Sao Paulo" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BRA version_name = "Early Battleship" } } }
+			ship = { name = "Minas Geraes" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BRA version_name = "Early Battleship" } } }
+			ship = { name = "2nd Belém Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "11th Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Salvador de Bahia Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "3rd Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "4th Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "5th Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "6th Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "7th Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "8th Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "9th Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Belém Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "10th Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Teresina Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Macapá Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Paraíba Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "12th Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "3rd Belém Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "13th Vitória Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "4th Belém Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Belém Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Belém Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "2nd Macapá Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "4th Belém Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "5th Belém Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Almirante Barrozo" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Republica" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Almirante Barrozo 2" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Republica 2" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Almirante Tamandaré" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Benjamin Constant" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Aquidaban" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Riachuelo" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Toneleros" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Fortaleza" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Tiradentes" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Belém Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Macapá Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Teresina Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Macapá Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "8th Belém Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "6th Belém Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Vitória Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "9th Belém Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 8196
+		task_force = {
+			name = "2nd Fleet"
+			location = 8196
+			ship = { name = "2nd Paraíba Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Macapá Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "5th Belém Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "7th Belém Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "4th Macapá Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "10th Belém Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "BRA"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "BRA"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

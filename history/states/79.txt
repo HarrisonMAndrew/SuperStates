@@ -1,0 +1,32 @@
+
+state={
+	id=79
+	name="STATE_79"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			10844 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BAN
+	}
+
+	provinces={
+		1206 10844 12771 
+	}
+	manpower=328280
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

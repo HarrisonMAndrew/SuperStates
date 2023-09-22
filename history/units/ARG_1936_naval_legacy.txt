@@ -1,0 +1,117 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 12364
+		task_force = {
+			name = "3rd Fleet"
+			location = 12364
+			ship = { name = "ARA Argentina" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA General Rosas" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Moreno" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Paz" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Presidente Avellaneda" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Río de la Plata" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Alvear" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Rivadavia" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Urquiza" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Yrigoyen" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Antofagasta Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Copiapó Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Valdivia Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Osorno Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "4th Copiapó Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "5th Antofagasta Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Antofagasta Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Copiapó Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Valdivia Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "2nd Antofagasta Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Osorno Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "3rd Antofagasta Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Haoqi Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Puerto Deseado Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "4th Antofagasta Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "2nd Copiapó Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "2nd Haoqi Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Paraná Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "2nd Puerto Deseado Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "3rd Puerto Deseado Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "6th Antofagasta Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "3rd Copiapó Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "2nd Osorno Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Roca" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Sarratea" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Álvarez Jonte" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Almirante Brown" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Castelli" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Belgrano" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Buenos Aires" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Garibaldi" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Chichlana" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Güemes" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Liniers" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Matheu" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Mitre" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Nueve de Julio" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Paso" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Patagonia" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Patria" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Pueyrredón" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Haoqi Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Viedma Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Veinticinco de Mayo" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Copiapó Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "2nd Copiapó Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Antofagasta Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "3rd Copiapó Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "2nd Antofagasta Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Valdivia Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "4th Copiapó Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "3rd Antofagasta Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "5th Copiapó Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA San Martín" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "ARA Sarratea 2" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 5121
+		task_force = {
+			name = "4th Fleet"
+			location = 5121
+			ship = { name = "2nd Osorno Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "1st Osorno Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "2nd Valdivia Cruiser" definition = light_cruiser equipment = { light_cruiser_2 = { amount = 1 owner = ARG } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 11000
+		task_force = {
+			name = "2nd Fleet"
+			location = 11000
+			ship = { name = "2nd Antofagasta Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = ARG } } }
+			ship = { name = "7th Antofagasta Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = ARG } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_2
+			creator = "ARG"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "ARG"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

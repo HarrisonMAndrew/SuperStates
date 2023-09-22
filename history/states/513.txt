@@ -1,0 +1,32 @@
+
+state={
+	id=513
+	name="STATE_513"
+	resources={
+		aluminium=5.000
+	}
+
+	history={
+		owner = USA
+		victory_points = {
+			4567 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 2
+
+		}
+		add_core_of = USA
+	}
+
+	provinces={
+		4567 4597 7586 
+	}
+	manpower=3740680
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

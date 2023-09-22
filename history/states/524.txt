@@ -1,0 +1,39 @@
+
+state={
+	id=524
+	name="STATE_524"
+	resources={
+		aluminium=3.000
+		steel=21.000
+	}
+
+	history={
+		owner = USA
+		victory_points = {
+			11654 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 7
+			arms_factory = 3
+			dockyard = 2
+			859 = {
+				naval_base = 10
+			}
+			air_base = 9
+
+		}
+		add_core_of = USA
+		add_core_of = W19
+		add_claim_by = CSA
+	}
+
+	provinces={
+		706 734 859 1436 3702 3733 3747 3806 3878 3894 6707 6717 6795 6911 6916 9664 9673 9693 9708 9721 9754 9774 10381 11650 11654 11660 11662 11665 11680 11722 
+	}
+	manpower=28375840
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

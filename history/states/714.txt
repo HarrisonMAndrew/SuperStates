@@ -1,0 +1,32 @@
+
+state={
+	id=714
+	name="STATE_714"
+
+	history={
+		owner = W27
+		victory_points = {
+			4948 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			4948 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = W27
+	}
+
+	provinces={
+		4948 
+	}
+	manpower=1351492
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

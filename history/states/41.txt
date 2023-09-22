@@ -1,0 +1,37 @@
+
+state={
+	id=41
+	name="STATE_41"
+	resources={
+		chromium=2.000
+		oil=2.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			10760 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			2103 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = BAN
+		add_claim_by = BAN
+	}
+
+	provinces={
+		1947 2018 2059 2103 4993 5049 8002 8020 10760 
+	}
+	manpower=3193392
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

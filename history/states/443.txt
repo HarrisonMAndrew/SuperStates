@@ -1,0 +1,33 @@
+
+state={
+	id=443
+	name="STATE_443"
+
+	history={
+		owner = X80
+		victory_points = {
+			12505 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			12698 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = X80
+	}
+
+	provinces={
+		1426 1785 4720 4787 7758 7788 12503 12505 12680 12698 
+	}
+	manpower=1550637
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

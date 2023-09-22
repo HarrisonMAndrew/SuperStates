@@ -1,0 +1,36 @@
+
+state={
+	id=480
+	name="STATE_480"
+	resources={
+		aluminium=60.000
+	}
+
+	history={
+		owner = X95
+		victory_points = {
+			11834 15 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			11834 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = X95
+	}
+
+	provinces={
+		911 956 3959 9909 11834 11849 
+	}
+	manpower=3312440
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

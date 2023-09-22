@@ -1,0 +1,29 @@
+
+state={
+	id=67
+	name="STATE_67"
+
+	history={
+		owner = BAN
+		victory_points = {
+			11953 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BAN
+	}
+
+	provinces={
+		1058 1126 1128 1141 1967 4018 4970 5053 7033 7149 9943 9960 9976 11953 12034 12888 
+	}
+	manpower=1881484
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}
