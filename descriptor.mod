@@ -1,4 +1,4 @@
-name = "Converted - SuperStatesBaseA"
+name = "Converted - SuperStates"
 replace_path="common/countries"
 replace_path="common/ideologies"
 replace_path="common/national_focus"
