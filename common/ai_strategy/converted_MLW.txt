@@ -1,0 +1,88 @@
+﻿converted_war_strategies_MLW = {
+	enable = {
+		tag = MLW
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "BAN"
+		value = 553
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ZIM"
+		value = 135
+	}
+}
+
+converted_diplo_strategies_MLW = {
+	enable = {
+		tag = MLW
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "BAN"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "W26"
+		value = 263
+	}
+	ai_strategy = {
+		type = contain
+		id = "W25"
+		value = 159
+	}
+	ai_strategy = {
+		type = contain
+		id = "ZIM"
+		value = 7
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BAN"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ZIM"
+		value = 49
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W26"
+		value = 9
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X55"
+		value = 4
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W26"
+		value = 200
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X03"
+		value = 97
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X44"
+		value = 52
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X50"
+		value = 43
+	}
+}

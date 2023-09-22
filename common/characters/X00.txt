@@ -1,0 +1,16 @@
+characters={
+	X00_rockatowah_wequadnack={
+		name=X00_rockatowah_wequadnack
+		portraits={
+			civilian={
+				large="GFX_nat_north_neutral"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

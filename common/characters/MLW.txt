@@ -1,0 +1,36 @@
+characters={
+	MLW_haruni_kalimakudzulu={
+		name=MLW_haruni_kalimakudzulu
+		portraits={
+			army={
+				large="GFX_NAM_Samuel_Maharero"
+			}
+			army={
+				small="GFX_NAM_Samuel_Maharero"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	MLW_issay_mwale={
+		name=MLW_issay_mwale
+		portraits={
+			civilian={
+				large="gfx/leaders/Africa/Portrait_Africa_Generic_1.dds"
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

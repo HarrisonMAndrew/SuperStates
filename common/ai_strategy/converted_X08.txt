@@ -1,0 +1,83 @@
+﻿converted_war_strategies_X08 = {
+	enable = {
+		tag = X08
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_X08 = {
+	enable = {
+		tag = X08
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "W25"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "BAN"
+		value = 234
+	}
+	ai_strategy = {
+		type = contain
+		id = "W26"
+		value = 168
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAN"
+		value = 29
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W29"
+		value = 29
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X80"
+		value = 27
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X62"
+		value = 16
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W33"
+		value = 16
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X28"
+		value = 3
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W33"
+		value = 46
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W30"
+		value = 44
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "DEN"
+		value = 41
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "MAC"
+		value = 31
+	}
+}

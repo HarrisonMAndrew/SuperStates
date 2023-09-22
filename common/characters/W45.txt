@@ -1,0 +1,16 @@
+characters={
+	W45_abd_al_rahman_ibn_ahmad={
+		name=W45_abd_al_rahman_ibn_ahmad
+		portraits={
+			civilian={
+				large="GFX_MOR_Assou"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

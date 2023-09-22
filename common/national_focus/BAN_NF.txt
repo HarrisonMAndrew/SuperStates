@@ -1,0 +1,465 @@
+focus_tree = {
+	id = BAN_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = BAN
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = Home_of_RevolutionBAN
+		icon = GFX_goal_support_communism
+		text = Home_of_Revolution
+		x = 25
+		y = 0
+		cost = 10
+		completion_reward = {
+		add_ideas = communist_influence
+	}
+		ai_will_do = {
+		factor = 5
+	}
+	}
+
+	focus = {
+		id = Influence_W27_BAN
+		icon = GFX_goal_generic_propaganda
+		text = Influence_W27
+		prerequisite = { focus = Home_of_RevolutionBAN }
+		x = 24
+		y = 1
+		cost = 10
+		completion_reward = {
+			W27 = {
+				if = {
+					limit = {
+						ROOT = {
+							has_government = communism
+						}
+					}
+					add_ideas = communist_influence
+				}
+				if = {
+					limit = {
+						ROOT = {
+							has_government = democratic
+						}
+					}
+					add_ideas = democratic_influence
+				}
+				if = {
+					limit = {
+						ROOT = {
+							has_government = fascism
+						}
+					}
+					add_ideas = fascist_influence
+				}
+				country_event = { id = generic.1 }
+			}
+		}
+		ai_will_do = {
+		factor = 5
+	}
+	}
+
+	focus = {
+		id = Coup_W27_BAN
+		icon = GFX_goal_generic_demand_territory
+		text = Coup_W27
+		prerequisite = { focus = Influence_W27_BAN }
+		x = 0
+		y = 1
+		relative_position_id = Influence_W27_BAN
+		cost = 10
+		available = {
+		W27 = { communism > 0.5 }
+	}
+		completion_reward = {
+		W27 = {
+			start_civil_war = {
+				ideology = communism
+				size = 0.5
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 5
+	}
+	}
+
+	focus = {
+		id = Influence_X34_BAN
+		icon = GFX_goal_generic_propaganda
+		text = Influence_X34
+		prerequisite = { focus = Home_of_RevolutionBAN }
+		x = 26
+		y = 1
+		cost = 10
+		completion_reward = {
+			X34 = {
+				if = {
+					limit = {
+						ROOT = {
+							has_government = communism
+						}
+					}
+					add_ideas = communist_influence
+				}
+				if = {
+					limit = {
+						ROOT = {
+							has_government = democratic
+						}
+					}
+					add_ideas = democratic_influence
+				}
+				if = {
+					limit = {
+						ROOT = {
+							has_government = fascism
+						}
+					}
+					add_ideas = fascist_influence
+				}
+				country_event = { id = generic.1 }
+			}
+		}
+		ai_will_do = {
+		factor = 5
+	}
+	}
+
+	focus = {
+		id = Coup_X34_BAN
+		icon = GFX_goal_generic_demand_territory
+		text = Coup_X34
+		prerequisite = { focus = Influence_X34_BAN }
+		x = 0
+		y = 1
+		relative_position_id = Influence_X34_BAN
+		cost = 10
+		available = {
+		X34 = { communism > 0.5 }
+	}
+		completion_reward = {
+		X34 = {
+			start_civil_war = {
+				ideology = communism
+				size = 0.5
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 5
+	}
+	}
+
+	focus = {
+		id = StrengthComBAN
+		icon = GFX_goal_support_communism
+		text = StrengthCom
+		x = 30
+		y = 0
+		cost = 10
+		completion_reward = {
+		army_experience = 20
+		add_doctrine_cost_reduction = {
+			name = land_doc_bonus
+			cost_reduction = 0.3
+			uses = 2
+			category = land_doctrine
+		}
+	}
+		ai_will_do = {
+		factor = 5
+	}
+	}
+
+	focus = {
+		id = Inter_Com_PresBAN
+		icon = GFX_goal_generic_dangerous_deal
+		text = Inter_Com_Pres
+		prerequisite = { focus = StrengthComBAN }
+		x = 0
+		y = 1
+		relative_position_id = StrengthComBAN
+		cost = 10
+		available = {
+		date > 1937.1.1
+	}
+		completion_reward = {
+		add_named_threat = { threat = 2 name = Inter_Com_Pres }
+		add_political_power = 150
+	}
+		ai_will_do = {
+		factor = 5
+	}
+	}
+
+	focus = {
+		id = WarX70BAN
+		icon = GFX_goal_generic_major_war
+		text = WarX70
+		prerequisite = { focus = Inter_Com_PresBAN }
+		bypass = {
+		has_war_with = X70
+	}
+		x = 28
+		y = 2
+		cost = 10
+		available = {
+		date > 1939.4.1
+
+	}
+		completion_reward = {
+		add_named_threat = { threat = 3 name = "War with Mong Mao" }
+		create_wargoal = {
+			type = puppet_wargoal_focus
+			target = X70
+		}
+	}
+		ai_will_do = {
+		factor = 5
+		modifier = {
+			factor = 0
+			strength_ratio = { tag = X70 ratio < 1 }
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_war_with = X58
+				has_war_with = X53
+
+			}
+		}
+	}
+	}
+
+	focus = {
+		id = WarX58BAN
+		icon = GFX_goal_generic_major_war
+		text = WarX58
+		prerequisite = { focus = Inter_Com_PresBAN }
+		bypass = {
+		has_war_with = X58
+	}
+		x = 30
+		y = 2
+		cost = 10
+		available = {
+		date > 1939.9.1
+
+	}
+		completion_reward = {
+		add_named_threat = { threat = 3 name = "War with Mong Kawng" }
+		create_wargoal = {
+			type = puppet_wargoal_focus
+			target = X58
+		}
+	}
+		ai_will_do = {
+		factor = 5
+		modifier = {
+			factor = 0
+			strength_ratio = { tag = X58 ratio < 1 }
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_war_with = X70
+				has_war_with = X53
+
+			}
+		}
+	}
+	}
+
+	focus = {
+		id = WarX53BAN
+		icon = GFX_goal_generic_major_war
+		text = WarX53
+		prerequisite = { focus = Inter_Com_PresBAN }
+		bypass = {
+		has_war_with = X53
+	}
+		x = 32
+		y = 2
+		cost = 10
+		available = {
+		date > 1938.1.1
+
+	}
+		completion_reward = {
+		add_named_threat = { threat = 3 name = "War with Kikondja" }
+		create_wargoal = {
+			type = puppet_wargoal_focus
+			target = X53
+		}
+	}
+		ai_will_do = {
+		factor = 5
+		modifier = {
+			factor = 0
+			strength_ratio = { tag = X53 ratio < 1 }
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				has_war_with = X70
+				has_war_with = X58
+
+			}
+		}
+	}
+	}
+
+	focus = {
+		id = Com_SummitBAN
+		icon = GFX_goal_generic_allies_build_infantry
+		text = Communist_Summit
+		x = 34
+		y = 0
+		cost = 10
+		completion_reward = {
+		add_named_threat = { threat = 3 name = "Call for the Communist Summit" }
+		add_political_power = 150
+		hidden_effect = {
+			if = {
+				limit = { has_government = fascism }
+				every_other_country = {
+					limit = { is_major = yes }
+					news_event = { id = news.501 }
+				}
+			}
+		}
+
+		hidden_effect = {
+			if = {
+				limit = { has_government = communism }
+				every_other_country = {
+					limit = { is_major = yes }
+					news_event = { id = news.500 }
+				}
+			}
+		}
+
+	}
+		ai_will_do = {
+		factor = 2
+		modifier = {
+			factor = 10
+			date > 1938.1.1
+		}
+	}
+	}
+
+	focus = {
+		id = Alliance_X14BAN
+		icon = GFX_goal_generic_allies_build_infantry
+		text = Alliance_X14
+		prerequisite = { focus = Com_SummitBAN }
+		bypass = {
+		OR = {
+			NOT = { has_government = X14 }
+			X14 = { is_subject = yes }
+			is_in_faction_with = X14
+			has_war_with = X14
+			NOT = { country_exists = X14 }
+		}
+	}
+		x = 0
+		y = 1
+		relative_position_id = Com_SummitBAN
+		cost = 10
+		available = {
+		OR = {
+			is_in_faction = no
+			faction_leader = { NOT = { has_war_together_with = ROOT } }
+		}
+		X14 = {
+			OR = {
+				is_faction_leader = yes
+				is_in_faction = no
+				has_war = no
+			}
+			has_opinion = {
+				target = ROOT
+				value > -50
+			}
+		}
+	}
+		completion_reward = {
+		if = {
+			limit = { X14 = { is_faction_leader = yes } }
+			every_country = {
+				limit = {
+					is_in_faction_with = X14
+					is_subject = no
+				}
+				country_event = { hours = 6 id = NFEvents.1 }
+			}
+		}
+		else = {
+			X14 = { country_event = { hours = 6 id = NFEvents.1 } }
+		}
+		X14 = {
+			add_opinion_modifier = { target = ROOT modifier = positive_50 }
+		}
+	}
+		ai_will_do = {
+			factor = 10
+	}
+	}
+
+	focus = {
+		id = GP_WarCAMBAN
+		icon = GFX_goal_generic_major_war
+		text = GP_WarCAM
+		prerequisite = { focus = Alliance_X14BAN }
+		bypass = {
+		has_war_with = CAM
+	}
+		x = 0
+		y = 2
+		relative_position_id = Com_SummitBAN
+		cost = 10
+		available = {
+		has_war = no
+		date > 1939.11.1
+	}
+		completion_reward = {
+		add_named_threat = { threat = 5 name = "War with Cambodia" }
+		declare_war_on = {
+			type = puppet_wargoal_focus
+			target = CAM
+		}
+	}
+		ai_will_do = {
+		factor = 5
+		modifier = {
+			factor = 0
+			strength_ratio = { tag = CAM ratio < 1 }
+		}
+		modifier = {
+			factor = 0
+			OR = {
+				
+			}
+		}
+	}
+	}
+
+}

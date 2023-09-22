@@ -1,0 +1,36 @@
+characters={
+	W22_yusuf_tukay={
+		name=W22_yusuf_tukay
+		portraits={
+			army={
+				large="GFX_OTT_Omer_Fahrettin"
+			}
+			army={
+				small="GFX_OTT_Omer_Fahrettin"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	W22_baqi_amirkhanov={
+		name=W22_baqi_amirkhanov
+		portraits={
+			civilian={
+				large="gfx/leaders/TUR/Portrait_Turkey_Ismet_Inonu.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

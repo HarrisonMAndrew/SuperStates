@@ -1,0 +1,16 @@
+characters={
+	W08_king_cocijopi_xolo_ii={
+		name=W08_king_cocijopi_xolo_ii
+		portraits={
+			civilian={
+				large="gfx/leaders/CHL/portrait_chl_arturo_alessandri.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

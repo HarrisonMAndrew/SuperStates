@@ -1,0 +1,16 @@
+characters={
+	X26_king_changluo_ii={
+		name=X26_king_changluo_ii
+		portraits={
+			civilian={
+				large="GFX_TAJ_Bobodzhan_Gafurov"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

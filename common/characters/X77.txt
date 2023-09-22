@@ -1,0 +1,16 @@
+characters={
+	X77_neebeenaquin_malanas={
+		name=X77_neebeenaquin_malanas
+		portraits={
+			civilian={
+				large="GFX_Lakota_Russell_Means"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

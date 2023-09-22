@@ -1,0 +1,16 @@
+characters={
+	UGA_king_mwanga_ii={
+		name=UGA_king_mwanga_ii
+		portraits={
+			civilian={
+				large="GFX_Dahomey_Apithy"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

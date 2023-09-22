@@ -1,0 +1,16 @@
+characters={
+	W09_raffaele_saletta={
+		name=W09_raffaele_saletta
+		portraits={
+			civilian={
+				large="GFX_Italy_Luigi_Sturzo"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

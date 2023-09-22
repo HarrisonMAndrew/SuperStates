@@ -1,0 +1,16 @@
+characters={
+	LIT_juozas_straizys={
+		name=LIT_juozas_straizys
+		portraits={
+			civilian={
+				large="gfx/leaders/LAT/portrait_lat_fricis_menders.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

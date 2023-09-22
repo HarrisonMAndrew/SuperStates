@@ -1,0 +1,36 @@
+characters={
+	X98_abu_al_ghazi_khan={
+		name=X98_abu_al_ghazi_khan
+		portraits={
+			army={
+				large="GFX_portrait_TUR_mustafa_kemal_ataturk_military"
+			}
+			army={
+				small="GFX_portrait_TUR_mustafa_kemal_ataturk_military"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X98_abd_al_karim_bahadur={
+		name=X98_abd_al_karim_bahadur
+		portraits={
+			civilian={
+				large="gfx/leaders/TUR/Portrait_Turkey_Mustafa_Kemal_Ataturk_Old.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

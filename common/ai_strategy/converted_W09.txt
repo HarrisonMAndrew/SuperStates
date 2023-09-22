@@ -1,0 +1,18 @@
+﻿converted_war_strategies_W09 = {
+	enable = {
+		tag = W09
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_W09 = {
+	enable = {
+		tag = W09
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

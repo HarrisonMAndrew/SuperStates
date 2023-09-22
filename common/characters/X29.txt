@@ -1,0 +1,16 @@
+characters={
+	X29_yrupe_yrahi={
+		name=X29_yrupe_yrahi
+		portraits={
+			civilian={
+				large="GFX_quechua_mamani"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

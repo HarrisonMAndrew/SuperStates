@@ -1,0 +1,36 @@
+characters={
+	X71_prospero_caviglia={
+		name=X71_prospero_caviglia
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X71_raffaele_pelloux={
+		name=X71_raffaele_pelloux
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/portrait_ita_ferruccio_parri.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

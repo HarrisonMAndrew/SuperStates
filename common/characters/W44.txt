@@ -1,0 +1,16 @@
+characters={
+	W44_uryu_michisura={
+		name=W44_uryu_michisura
+		portraits={
+			civilian={
+				large="gfx/leaders/JAP/Portrait_Japan_Generic_3.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

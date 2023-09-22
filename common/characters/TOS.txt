@@ -1,0 +1,16 @@
+characters={
+	TOS_gaetano_cialdini={
+		name=TOS_gaetano_cialdini
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/portrait_ita_ferruccio_parri.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

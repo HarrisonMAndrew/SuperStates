@@ -1,0 +1,16 @@
+characters={
+	X69_king_huang_taiji_ii={
+		name=X69_king_huang_taiji_ii
+		portraits={
+			civilian={
+				large="GFX_FNG_Zhang_Zuolin"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}
