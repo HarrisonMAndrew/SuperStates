@@ -1,0 +1,35 @@
+add_namespace = frankian_unification
+
+news_event = {
+	id = frankian_unification.2
+	title = frankian_unification.2.t
+	desc = frankian_unification.2.desc
+	picture = GFX_report_event_hitler_handshake
+	major = yes
+
+
+	trigger ={
+		country_exists = GER #East Frankia
+		country_exists = X60 #Lotharangia
+	}
+
+	mean_time_to_happen = {
+		days = 10
+		months = 0
+		years = 0
+	}
+
+	immediate = {
+		FRA = {
+			annex_country={
+				target = GER
+				transfer_troops = yes
+			}
+	
+			annex_country={
+				target = X60
+				transfer_troops = yes
+			}	
+		}		
+	}
+}

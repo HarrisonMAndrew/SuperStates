@@ -185,7 +185,7 @@ add_opinion_modifier = { target = CSA modifier = negative_25 }
 add_opinion_modifier = { target = DEN modifier = negative_50 }
 add_opinion_modifier = { target = ENG modifier = positive_130 }
 add_opinion_modifier = { target = EST modifier = negative_45 }
-add_opinion_modifier = { target = GER modifier = negative_195 }
+add_opinion_modifier = { target = GER modifier = positive_100 }
 set_truce = { target = GER days = 1825 }
 add_opinion_modifier = { target = MAC modifier = negative_10 }
 add_opinion_modifier = { target = MEX modifier = negative_169 }

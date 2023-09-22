@@ -3,11 +3,6 @@ set_major = yes
 set_cosmetic_tag = GER_union
 set_research_slots = 4
 
-declare_war_on = {
-	target = FRA
-	type = puppet_wargoal_focus
-}
-
 oob = "GER_OOB"
 
 # Starting tech
@@ -186,7 +181,7 @@ add_opinion_modifier = { target = CUB modifier = positive_5 }
 add_opinion_modifier = { target = DEN modifier = positive_19 }
 add_opinion_modifier = { target = ENG modifier = positive_101 }
 add_opinion_modifier = { target = EST modifier = positive_53 }
-add_opinion_modifier = { target = FRA modifier = negative_195 }
+add_opinion_modifier = { target = FRA modifier = positive_100 }
 set_truce = { target = FRA days = 1825 }
 add_opinion_modifier = { target = JAP modifier = positive_105 }
 add_opinion_modifier = { target = MAC modifier = negative_15 }
