@@ -21,15 +21,20 @@ news_event = {
 
 	immediate = {
 		FRA = {
-			annex_country={
+			annex_country = {
 				target = GER
 				transfer_troops = yes
 			}
 	
-			annex_country={
+			annex_country = {
 				target = X60
 				transfer_troops = yes
-			}	
+			}
+			
+			set_politics = {
+				ruling_party = fascism
+			}
+		
 		}		
 	}
 }

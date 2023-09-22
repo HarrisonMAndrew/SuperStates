@@ -140,7 +140,8 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic = 100
+	democratic = 30
+	fascism = 70
 }
 
 # DIPLOMACY
