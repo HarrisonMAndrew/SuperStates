@@ -10,6 +10,13 @@ if = {
 	}
 }
 
+# Factions
+create_faction = "Royalists"
+add_to_faction = BLZ
+add_to_faction = CSA
+add_to_faction = X61
+add_to_faction = X39
+
 # Starting tech
 set_technology = {
 	basic_train = 1

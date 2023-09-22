@@ -17,6 +17,14 @@ if = {
 	}
 }
 
+# Faction
+create_faction = "The Old Powers"
+add_to_faction = W26
+add_to_faction = BAN
+add_to_faction = SIA
+add_to_faction = X22
+add_to_faction = X58
+
 # Starting tech
 set_technology = {
 	basic_train = 1

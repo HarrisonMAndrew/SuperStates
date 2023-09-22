@@ -11,6 +11,15 @@ if = {
 	}
 }
 
+# Factions
+create_faction = "Cambodian Prosperity Sphere"
+add_to_faction = X70
+add_to_faction = X57
+add_to_faction = X68
+add_to_faction = W28
+add_to_faction = X52
+add_to_faction = W30
+
 # Starting tech
 set_technology = {
 	basic_train = 1

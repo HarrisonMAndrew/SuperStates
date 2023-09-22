@@ -11,6 +11,13 @@ if = {
 	}
 }
 
+#Factions
+create_faction = "Fraternite Francienne"
+add_to_faction = GER
+add_to_faction = X60
+add_to_faction = X95
+
+
 # Starting tech
 set_technology = {
 	basic_train = 1

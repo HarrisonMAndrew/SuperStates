@@ -10,6 +10,11 @@ if = {
 	}
 }
 
+# Factions
+create_faction = "Blue Brotherhood"
+add_to_faction = USA
+add_to_faction = W32
+
 # Starting tech
 set_technology = {
 	basic_train = 1
@@ -117,16 +122,16 @@ set_country_flag = conv_canada
 set_convoys = 5
 
 set_politics = {
-    ruling_party = democratic
+    ruling_party = fascism
     last_election = "1933.7.3"
     election_frequency = 48
-    elections_allowed = yes
+    elections_allowed = no
 }
 
 set_popularities = {
 	communism = 2
-	democratic = 75
-	fascism = 12
+	democratic = 12
+	fascism = 75
 	neutrality = 11
 }
 

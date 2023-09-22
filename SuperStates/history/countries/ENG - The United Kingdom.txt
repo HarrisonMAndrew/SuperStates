@@ -11,6 +11,10 @@ if = {
 	}
 }
 
+# Factions
+create_faction = "Crown Territories"
+add_to_faction = BRA
+
 # Starting tech
 set_technology = {
 	basic_train = 1

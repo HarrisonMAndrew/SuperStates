@@ -10,6 +10,14 @@ if = {
 	}
 }
 
+# Factions
+create_faction = "Independent League"
+add_to_faction = W29
+add_to_faction = X28
+add_to_faction = W33
+add_to_faction = W12
+add_to_faction = CAL
+
 # Starting tech
 set_technology = {
 	basic_train = 1
