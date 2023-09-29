@@ -1021,3 +1021,9 @@
  war_planX95_desc:0 "We know it, they know it - war is inevitable. They'll certainly be prepared and we must make sure we are as well."
  war_planX96:0 "War Plan [X96.GetName]"
  war_planX96_desc:0 "We know it, they know it - war is inevitable. They'll certainly be prepared and we must make sure we are as well."
+
+#Custom focuses
+
+#Frankia
+new_national_identityFRA.t:0 "A New National Identitiy"
+new_national_identityFRA.d:0 "We have become the laughing stock of the world. But enough is enough. The time has come for the Frankian people to take their true place in this world."
