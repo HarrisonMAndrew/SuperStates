@@ -8,15 +8,18 @@ news_event = {
 	major = yes
 
 
-	trigger ={
+	trigger = {
+		FRA = {
+			has_government = fascism
+		}
 		country_exists = GER #East Frankia
 		country_exists = X60 #Lotharangia
 	}
 
 	mean_time_to_happen = {
 		days = 10
-		months = 0
-		years = 0
+		months = 4
+		years = 1
 	}
 
 	immediate = {
@@ -29,10 +32,6 @@ news_event = {
 			annex_country = {
 				target = X60
 				transfer_troops = yes
-			}
-			
-			set_politics = {
-				ruling_party = fascism
 			}
 		
 		}		
