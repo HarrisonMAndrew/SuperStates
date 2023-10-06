@@ -9,7 +9,7 @@ state={
 	history={
 		owner = W26
 		victory_points = {
-			11818 7 
+			11818 10 
 		}
 		buildings = {
 			infrastructure = 3
