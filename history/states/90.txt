@@ -6,7 +6,7 @@ state={
 	history={
 		owner = BAN
 		victory_points = {
-			1473 0 
+			1473 7 
 		}
 		buildings = {
 			infrastructure = 2
